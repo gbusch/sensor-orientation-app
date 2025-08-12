@@ -1,0 +1,30 @@
+{
+  "overall_score": 0.7869997524100549,
+  "temporal_consistency": 0.9196054576891511,
+  "physical_plausibility": 0.7358333333333333,
+  "sensor_reliability": 0.5932225373770789,
+  "transformation_stability": 0.894270737128533,
+  "detailed_metrics": {
+    "mean_quality_score": 0.9126901087809323,
+    "quality_score_std": 0.03506406639412867,
+    "min_quality_score": 0.7302226212744606,
+    "mean_roll": 0.14209940738128687,
+    "mean_pitch": 0.8849923055291223,
+    "mean_yaw": 0.24668803735552738,
+    "orientation_stability": 0.9375857726277144,
+    "mean_forward_accel": 8.833866033210086,
+    "mean_lateral_accel": 2.1159493976120083,
+    "mean_vertical_accel": 11.408021997282532,
+    "max_acceleration": 18.68500839235964,
+    "mean_gps_accuracy": 5.086342356563358,
+    "gps_accuracy_std": 2.090475688075465,
+    "mean_speed": 22.608238537544437,
+    "max_speed": 26.807747484802306,
+    "accelerometer_noise": 1.4115668792899136,
+    "gyroscope_noise": 0.8126786739280062
+  },
+  "recommendations": [
+    "GPS accuracy is poor - consider using additional sensors or filtering",
+    "High sensor noise detected - check sensor calibration"
+  ]
+}

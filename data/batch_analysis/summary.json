@@ -1,0 +1,32 @@
+[
+  {
+    "scenario": "fixed",
+    "description": "Fixed phone orientation (dashboard mount)",
+    "overall_quality": 0.9547095515081514,
+    "temporal_consistency": 0.9848887548617292,
+    "physical_plausibility": 1.0,
+    "sensor_reliability": 0.8516246039983267,
+    "transformation_stability": 0.9816838702502548,
+    "num_samples": 300
+  },
+  {
+    "scenario": "slowly_changing",
+    "description": "Slowly changing orientation (phone on seat)",
+    "overall_quality": 0.9441203558091587,
+    "temporal_consistency": 0.9822818778707937,
+    "physical_plausibility": 0.9683333333333333,
+    "sensor_reliability": 0.8473942881593661,
+    "transformation_stability": 0.9775194353737283,
+    "num_samples": 300
+  },
+  {
+    "scenario": "changing",
+    "description": "Dynamic orientation changes (phone in pocket/hand)",
+    "overall_quality": 0.7849098395342926,
+    "temporal_consistency": 0.9206432428905784,
+    "physical_plausibility": 0.7349999999999999,
+    "sensor_reliability": 0.5861983572169335,
+    "transformation_stability": 0.8920863868144282,
+    "num_samples": 300
+  }
+]

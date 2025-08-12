@@ -1,0 +1,6302 @@
+[
+  {
+    "timestamp": 0.0,
+    "vehicle_acceleration": [
+      10.01038272399549,
+      -0.8161132937532607,
+      -8.737626811164256
+    ],
+    "estimated_orientation": [
+      -0.04657960150076844,
+      -0.7310398889947165,
+      0.0
+    ],
+    "quality_score": 0.9190655013565736,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.7346419217106267,
+      "gravity_consistency": 0.9418594838343036,
+      "orientation_stability": 1.0,
+      "gyro_quality": 0.9703312416205618
+    }
+  },
+  {
+    "timestamp": 0.10033444816053512,
+    "vehicle_acceleration": [
+      10.077828247389856,
+      -0.3956942127854238,
+      -8.664520468315613
+    ],
+    "estimated_orientation": [
+      -0.040509486728054885,
+      -0.7291323411395572,
+      -0.08958241674004686
+    ],
+    "quality_score": 0.9330478597938332,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.79664034707359,
+      "gravity_consistency": 0.9317508260658972,
+      "orientation_stability": 0.9999435047124913,
+      "gyro_quality": 0.9754608210538245
+    }
+  },
+  {
+    "timestamp": 0.20066889632107024,
+    "vehicle_acceleration": [
+      10.01935598093775,
+      -0.11398127740030808,
+      -8.280167236391488
+    ],
+    "estimated_orientation": [
+      -0.02534316091925186,
+      -0.711138084970638,
+      -0.08986081779108625
+    ],
+    "quality_score": 0.9263730312226285,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.7770124026085561,
+      "gravity_consistency": 0.9345282895864248,
+      "orientation_stability": 0.9993251403796094,
+      "gyro_quality": 0.9531550159626314
+    }
+  },
+  {
+    "timestamp": 0.3010033444816054,
+    "vehicle_acceleration": [
+      10.081028901445285,
+      0.13681909390625752,
+      -8.304440399644927
+    ],
+    "estimated_orientation": [
+      -0.011021586961645737,
+      -0.7103755028894395,
+      -0.08986168743533939
+    ],
+    "quality_score": 0.9303238023013197,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.7984959270478817,
+      "gravity_consistency": 0.9230749971510661,
+      "orientation_stability": 0.9988820555110955,
+      "gyro_quality": 0.9625251278247173
+    }
+  },
+  {
+    "timestamp": 0.4013377926421405,
+    "vehicle_acceleration": [
+      10.029501834742044,
+      -0.10193631302654646,
+      -8.31985700003718
+    ],
+    "estimated_orientation": [
+      -0.020021815556137836,
+      -0.7106744332253064,
+      -0.08984289713478912
+    ],
+    "quality_score": 0.929390703060306,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.7776232174212883,
+      "gravity_consistency": 0.9347311858479947,
+      "orientation_stability": 0.9967630974561713,
+      "gyro_quality": 0.9852419691695932
+    }
+  },
+  {
+    "timestamp": 0.5016722408026756,
+    "vehicle_acceleration": [
+      9.978587907704698,
+      -0.24764987482235956,
+      -8.179339325041855
+    ],
+    "estimated_orientation": [
+      -0.028779777192777703,
+      -0.7052303572656183,
+      -0.08982784414949681
+    ],
+    "quality_score": 0.9271037956449704,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.7722236687618841,
+      "gravity_consistency": 0.9398762047724265,
+      "orientation_stability": 0.9974012183425018,
+      "gyro_quality": 0.9646245474863872
+    }
+  },
+  {
+    "timestamp": 0.6020066889632107,
+    "vehicle_acceleration": [
+      9.976341926150916,
+      0.050224047380136694,
+      -8.766571043621223
+    ],
+    "estimated_orientation": [
+      -0.018660594239354247,
+      -0.7246105402020389,
+      -0.08981673316262609
+    ],
+    "quality_score": 0.9459719949249219,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.8344961205480892,
+      "gravity_consistency": 0.9548370605978675,
+      "orientation_stability": 0.993378078165608,
+      "gyro_quality": 0.9737384094348482
+    }
+  },
+  {
+    "timestamp": 0.7023411371237458,
+    "vehicle_acceleration": [
+      9.909092246264558,
+      -0.07289366557012818,
+      -8.41231730841045
+    ],
+    "estimated_orientation": [
+      -0.020035576561999405,
+      -0.719435757848493,
+      -0.08980837574813699
+    ],
+    "quality_score": 0.9450130870141084,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.818809564448453,
+      "gravity_consistency": 0.9608732938116564,
+      "orientation_stability": 0.9974960017971967,
+      "gyro_quality": 0.9851163687008433
+    }
+  },
+  {
+    "timestamp": 0.802675585284281,
+    "vehicle_acceleration": [
+      9.910496554082632,
+      0.05587008083824601,
+      -8.213692941453466
+    ],
+    "estimated_orientation": [
+      -0.01581450074492707,
+      -0.7111885384082893,
+      -0.08980189299559652
+    ],
+    "quality_score": 0.9547382663267014,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.877656720237302,
+      "gravity_consistency": 0.9540565461728377,
+      "orientation_stability": 0.9968361748256399,
+      "gyro_quality": 0.9498735080896236
+    }
+  },
+  {
+    "timestamp": 0.9030100334448161,
+    "vehicle_acceleration": [
+      9.953860454694814,
+      0.1187980052160356,
+      -8.513639099759754
+    ],
+    "estimated_orientation": [
+      -0.01207356756537079,
+      -0.7169847494042602,
+      -0.08979671620676949
+    ],
+    "quality_score": 0.9606578273383213,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.8887150861822424,
+      "gravity_consistency": 0.9539641133247905,
+      "orientation_stability": 0.9970468364360302,
+      "gyro_quality": 0.9812920766239801
+    }
+  },
+  {
+    "timestamp": 1.0033444816053512,
+    "vehicle_acceleration": [
+      9.92951453233129,
+      0.18068240371439456,
+      -8.33456505439408
+    ],
+    "estimated_orientation": [
+      -0.008346699415918313,
+      -0.7142850097273084,
+      -0.08979247731975334
+    ],
+    "quality_score": 0.9542025381036962,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.8627485573829997,
+      "gravity_consistency": 0.9537560684765058,
+      "orientation_stability": 0.9987743758622084,
+      "gyro_quality": 0.9794802868331373
+    }
+  },
+  {
+    "timestamp": 1.1036789297658862,
+    "vehicle_acceleration": [
+      10.097266498476166,
+      0.21586158260730268,
+      -8.089194073905253
+    ],
+    "estimated_orientation": [
+      -0.00622150072192192,
+      -0.7069267656695569,
+      -0.08978893213533207
+    ],
+    "quality_score": 0.9481133973721025,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.8818109371824081,
+      "gravity_consistency": 0.9129590567822309,
+      "orientation_stability": 0.9967613265052077,
+      "gyro_quality": 0.9555465274427324
+    }
+  },
+  {
+    "timestamp": 1.2040133779264215,
+    "vehicle_acceleration": [
+      9.83667307987327,
+      0.2488040577953355,
+      -8.123239775062117
+    ],
+    "estimated_orientation": [
+      -0.0036663170783431966,
+      -0.7031726454406486,
+      -0.08978591397621426
+    ],
+    "quality_score": 0.9682185005691493,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9157775851793456,
+      "gravity_consistency": 0.9653002674304215,
+      "orientation_stability": 0.9988516701383724,
+      "gyro_quality": 0.9638630026747278
+    }
+  },
+  {
+    "timestamp": 1.3043478260869565,
+    "vehicle_acceleration": [
+      9.932104626782117,
+      0.1490888202851023,
+      -7.975108664239283
+    ],
+    "estimated_orientation": [
+      -0.006202905428588821,
+      -0.6978145251368353,
+      -0.08978330601954089
+    ],
+    "quality_score": 0.9560150687596876,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.8772655973101795,
+      "gravity_consistency": 0.9424406113013685,
+      "orientation_stability": 0.9966822527929496,
+      "gyro_quality": 0.9870820925292657
+    }
+  },
+  {
+    "timestamp": 1.4046822742474916,
+    "vehicle_acceleration": [
+      9.80610061561233,
+      0.15191785524247445,
+      -7.961193232581937
+    ],
+    "estimated_orientation": [
+      -0.0005518252723330317,
+      -0.6938733682100074,
+      -0.03223705688921613
+    ],
+    "quality_score": 0.9734968093327657,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9521503611380527,
+      "gravity_consistency": 0.9657960976122212,
+      "orientation_stability": 0.961104892377057,
+      "gyro_quality": 0.9813426566924974
+    }
+  },
+  {
+    "timestamp": 1.5050167224080269,
+    "vehicle_acceleration": [
+      9.996322615005173,
+      0.15336665803918295,
+      -7.754138065990554
+    ],
+    "estimated_orientation": [
+      0.006761355666872098,
+      -0.6874915915273903,
+      0.009972241457059515
+    ],
+    "quality_score": 0.9556114731437245,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9117514426731731,
+      "gravity_consistency": 0.9207647445443119,
+      "orientation_stability": 0.9743534365589246,
+      "gyro_quality": 0.9736764808273027
+    }
+  },
+  {
+    "timestamp": 1.605351170568562,
+    "vehicle_acceleration": [
+      9.960642845319008,
+      0.06687422767693131,
+      -7.789369909306147
+    ],
+    "estimated_orientation": [
+      0.011146993082005317,
+      -0.6850945160821028,
+      0.041023682369463244
+    ],
+    "quality_score": 0.9657243295571095,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.946590627670651,
+      "gravity_consistency": 0.9293355535376125,
+      "orientation_stability": 0.9844624031275373,
+      "gyro_quality": 0.9554020146279361
+    }
+  },
+  {
+    "timestamp": 1.705685618729097,
+    "vehicle_acceleration": [
+      9.989100827072741,
+      0.2371145678285271,
+      -7.787498051876491
+    ],
+    "estimated_orientation": [
+      0.021095237906108868,
+      -0.6840145745810062,
+      0.06385068980222841
+    ],
+    "quality_score": 0.9601903889891261,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9394573798646533,
+      "gravity_consistency": 0.9238679218664938,
+      "orientation_stability": 0.9907591170656855,
+      "gyro_quality": 0.9193859208981108
+    }
+  },
+  {
+    "timestamp": 1.8060200668896322,
+    "vehicle_acceleration": [
+      9.829955362357081,
+      0.026819494969464022,
+      -7.599859634257701
+    ],
+    "estimated_orientation": [
+      0.015225845804900287,
+      -0.6780893270159352,
+      0.028365315941886113
+    ],
+    "quality_score": 0.9679738214848432,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9519219656301077,
+      "gravity_consistency": 0.9463351915258545,
+      "orientation_stability": 0.9619121838404955,
+      "gyro_quality": 0.9643946419607112
+    }
+  },
+  {
+    "timestamp": 1.9063545150501673,
+    "vehicle_acceleration": [
+      9.976580552243377,
+      0.1405338199296456,
+      -7.68785636046285
+    ],
+    "estimated_orientation": [
+      0.018516159700283863,
+      -0.6780356442412543,
+      0.05209760125505558
+    ],
+    "quality_score": 0.9707446739202367,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9753292710329815,
+      "gravity_consistency": 0.9218256239364507,
+      "orientation_stability": 0.9878869603655366,
+      "gyro_quality": 0.9436418731987057
+    }
+  },
+  {
+    "timestamp": 2.0066889632107023,
+    "vehicle_acceleration": [
+      9.830215100183624,
+      0.011493253740412468,
+      -7.373515037696674
+    ],
+    "estimated_orientation": [
+      0.017971282568939397,
+      -0.6697820359953748,
+      0.06985766037756697
+    ],
+    "quality_score": 0.9757219543901281,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9819524375027502,
+      "gravity_consistency": 0.9359730691166671,
+      "orientation_stability": 0.9924884936615112,
+      "gyro_quality": 0.9416595714188032
+    }
+  },
+  {
+    "timestamp": 2.1070234113712374,
+    "vehicle_acceleration": [
+      9.815334327139393,
+      0.16093884135964726,
+      -7.2430870305054444
+    ],
+    "estimated_orientation": [
+      0.023565479597840153,
+      -0.6621779618074348,
+      0.08304211404951631
+    ],
+    "quality_score": 0.9760187535722568,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9832279465315835,
+      "gravity_consistency": 0.9331359626058482,
+      "orientation_stability": 0.9960335992264933,
+      "gyro_quality": 0.941795345342172
+    }
+  },
+  {
+    "timestamp": 2.2073578595317724,
+    "vehicle_acceleration": [
+      9.736090132435406,
+      0.03242202323508889,
+      -7.006853292573781
+    ],
+    "estimated_orientation": [
+      0.023515091421720105,
+      -0.6522334887424497,
+      0.09270862582591197
+    ],
+    "quality_score": 0.980557140254977,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9351320337865883,
+      "orientation_stability": 0.9955017938298231,
+      "gyro_quality": 0.9420546442318593
+    }
+  },
+  {
+    "timestamp": 2.307692307692308,
+    "vehicle_acceleration": [
+      9.951265182264484,
+      0.01353421250179169,
+      -7.026775084822347
+    ],
+    "estimated_orientation": [
+      0.024198535736627547,
+      -0.6490065600486542,
+      0.0996657335875744
+    ],
+    "quality_score": 0.9765903836994243,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.8947573163581215,
+      "orientation_stability": 0.9965890168975894,
+      "gyro_quality": 0.981505678931616
+    }
+  },
+  {
+    "timestamp": 2.408026755852843,
+    "vehicle_acceleration": [
+      9.725953234258409,
+      0.013855138039396987,
+      -7.176640982537996
+    ],
+    "estimated_orientation": [
+      0.0246625263976319,
+      -0.649583226210545,
+      0.1045363964284126
+    ],
+    "quality_score": 0.9822082695965024,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9461318943814682,
+      "orientation_stability": 0.9943582154527586,
+      "gyro_quality": 0.9382815840229489
+    }
+  },
+  {
+    "timestamp": 2.508361204013378,
+    "vehicle_acceleration": [
+      9.565648930252745,
+      0.20763277393362567,
+      -6.90572678077815
+    ],
+    "estimated_orientation": [
+      0.03046699081241691,
+      -0.6422222248585705,
+      0.10780363928663837
+    ],
+    "quality_score": 0.989834827131558,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.962990820343613,
+      "orientation_stability": 0.9933982590008632,
+      "gyro_quality": 0.9822692421270578
+    }
+  },
+  {
+    "timestamp": 2.608695652173913,
+    "vehicle_acceleration": [
+      9.86881267388013,
+      0.06116051402302589,
+      -7.16705561921504
+    ],
+    "estimated_orientation": [
+      0.030092109158193218,
+      -0.6469135278209927,
+      0.10984381240628345
+    ],
+    "quality_score": 0.9764947651213498,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9175539327381074,
+      "orientation_stability": 0.9914028340067098,
+      "gyro_quality": 0.9427355347272165
+    }
+  },
+  {
+    "timestamp": 2.709030100334448,
+    "vehicle_acceleration": [
+      9.618009997348373,
+      -0.07964156516803853,
+      -6.956820568602566
+    ],
+    "estimated_orientation": [
+      0.025125800510522617,
+      -0.643066431145919,
+      0.11095115647848015
+    ],
+    "quality_score": 0.9809970232941729,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.953751470018555,
+      "orientation_stability": 0.9918091375284042,
+      "gyro_quality": 0.9147535866120121
+    }
+  },
+  {
+    "timestamp": 2.809364548494983,
+    "vehicle_acceleration": [
+      9.482031300035183,
+      -0.06336255739771207,
+      -6.787668582546625
+    ],
+    "estimated_orientation": [
+      0.0227843504677908,
+      -0.6360207509466889,
+      0.1113561791974723
+    ],
+    "quality_score": 0.9898516455668653,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9706559681665624,
+      "orientation_stability": 0.9922671165216959,
+      "gyro_quality": 0.9688038445529829
+    }
+  },
+  {
+    "timestamp": 2.9096989966555187,
+    "vehicle_acceleration": [
+      9.61183614863554,
+      -0.20640639077722492,
+      -6.599948486430949
+    ],
+    "estimated_orientation": [
+      0.012514558638554904,
+      -0.6286263552180179,
+      0.06319967748367278
+    ],
+    "quality_score": 0.9742466428487271,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9333439957904688,
+      "orientation_stability": 0.9506853884927509,
+      "gyro_quality": 0.9497503541672074
+    }
+  },
+  {
+    "timestamp": 3.0100334448160537,
+    "vehicle_acceleration": [
+      9.507011033267185,
+      -0.005424450388991243,
+      -6.9010338042446975
+    ],
+    "estimated_orientation": [
+      0.01403241351085895,
+      -0.6310314421923563,
+      0.07292015612211342
+    ],
+    "quality_score": 0.9888676684552109,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9736379796363224,
+      "orientation_stability": 0.9932807889289174,
+      "gyro_quality": 0.9514795418860882
+    }
+  },
+  {
+    "timestamp": 3.1103678929765888,
+    "vehicle_acceleration": [
+      9.523131689912944,
+      -0.15905755305942076,
+      -6.459341459290045
+    ],
+    "estimated_orientation": [
+      0.011142549665907952,
+      -0.622280016978581,
+      0.08037139091991073
+    ],
+    "quality_score": 0.9836840881846716,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9421139204074717,
+      "orientation_stability": 0.9949390706723569,
+      "gyro_quality": 0.960204435023236
+    }
+  },
+  {
+    "timestamp": 3.210702341137124,
+    "vehicle_acceleration": [
+      9.418349203790049,
+      -0.14204033048442918,
+      -6.409391941583253
+    ],
+    "estimated_orientation": [
+      0.010661388973370397,
+      -0.6156506732619124,
+      0.08601841466106783
+    ],
+    "quality_score": 0.9841072826363715,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9589542463234018,
+      "orientation_stability": 0.9977761381216701,
+      "gyro_quality": 0.9265001265344046
+    }
+  },
+  {
+    "timestamp": 3.311036789297659,
+    "vehicle_acceleration": [
+      9.69336156190717,
+      -0.1429061332059384,
+      -6.470407094267706
+    ],
+    "estimated_orientation": [
+      0.011469909268865168,
+      -0.6158923913841735,
+      0.09023506346511055
+    ],
+    "quality_score": 0.978075929358773,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9112180981375506,
+      "orientation_stability": 0.9972485551329748,
+      "gyro_quality": 0.962450264613166
+    }
+  },
+  {
+    "timestamp": 3.411371237458194,
+    "vehicle_acceleration": [
+      9.496085492201743,
+      -0.15630217897371923,
+      -6.263977582322729
+    ],
+    "estimated_orientation": [
+      0.011454779979088212,
+      -0.6098326684784164,
+      0.09332191917937087
+    ],
+    "quality_score": 0.977905716643089,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9343260248189107,
+      "orientation_stability": 0.9980940460252195,
+      "gyro_quality": 0.9132640477552391
+    }
+  },
+  {
+    "timestamp": 3.511705685618729,
+    "vehicle_acceleration": [
+      9.460315365364217,
+      0.04777219513422713,
+      -6.2097759845513405
+    ],
+    "estimated_orientation": [
+      0.01749294503284167,
+      -0.6049591281357611,
+      0.09552056857152208
+    ],
+    "quality_score": 0.9846459955319882,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9385274766220402,
+      "orientation_stability": 0.995823123322117,
+      "gyro_quality": 0.9756703170926246
+    }
+  },
+  {
+    "timestamp": 3.6120401337792645,
+    "vehicle_acceleration": [
+      9.43295020428043,
+      -0.020963286126468094,
+      -6.197144934754652
+    ],
+    "estimated_orientation": [
+      0.018827058428973587,
+      -0.6020630300872057,
+      0.0970249958526452
+    ],
+    "quality_score": 0.9839991037484643,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9417680921136494,
+      "orientation_stability": 0.997558722609132,
+      "gyro_quality": 0.9601167693436464
+    }
+  },
+  {
+    "timestamp": 3.7123745819397995,
+    "vehicle_acceleration": [
+      9.203230567629744,
+      -0.14603078908312556,
+      -6.224865702677865
+    ],
+    "estimated_orientation": [
+      0.01557226371507138,
+      -0.5993764865069225,
+      0.09799072560335814
+    ],
+    "quality_score": 0.9938161515968368,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9856107002063063,
+      "orientation_stability": 0.996251873902873,
+      "gyro_quality": 0.9725623047014457
+    }
+  },
+  {
+    "timestamp": 3.8127090301003346,
+    "vehicle_acceleration": [
+      9.271500329337185,
+      -0.056832991836229696,
+      -6.019552918335939
+    ],
+    "estimated_orientation": [
+      0.01667729533263283,
+      -0.5938125652629701,
+      0.09854218724520059
+    ],
+    "quality_score": 0.9889456833914676,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9587750328475639,
+      "orientation_stability": 0.9969492295092358,
+      "gyro_quality": 0.9764829239556941
+    }
+  },
+  {
+    "timestamp": 3.9130434782608696,
+    "vehicle_acceleration": [
+      9.111169258202882,
+      -0.27059906687601615,
+      -5.77943773103049
+    ],
+    "estimated_orientation": [
+      0.005931496167336648,
+      -0.5837474887188292,
+      0.051180216419925574
+    ],
+    "quality_score": 0.9813733193064249,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9676108134652356,
+      "orientation_stability": 0.954392408908599,
+      "gyro_quality": 0.9469229527708785
+    }
+  },
+  {
+    "timestamp": 4.013377926421405,
+    "vehicle_acceleration": [
+      9.241818253047711,
+      -0.04302978138015657,
+      -5.99731749578168
+    ],
+    "estimated_orientation": [
+      0.00815086614555451,
+      -0.5846484312778385,
+      0.06125137218566214
+    ],
+    "quality_score": 0.9868924503269106,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9627498034086333,
+      "orientation_stability": 0.990169575021953,
+      "gyro_quality": 0.9581705339189094
+    }
+  },
+  {
+    "timestamp": 4.11371237458194,
+    "vehicle_acceleration": [
+      9.160559203436375,
+      -0.10568662857691247,
+      -5.889827152956465
+    ],
+    "estimated_orientation": [
+      0.008256503110651209,
+      -0.5821245354879192,
+      0.0692013791975165
+    ],
+    "quality_score": 0.9884703124119883,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9690677584309899,
+      "orientation_stability": 0.9933873007492456,
+      "gyro_quality": 0.9564866561340353
+    }
+  },
+  {
+    "timestamp": 4.214046822742475,
+    "vehicle_acceleration": [
+      9.063484862336091,
+      -0.14875157454280982,
+      -5.62796697293864
+    ],
+    "estimated_orientation": [
+      0.007655284273136095,
+      -0.5740018345913854,
+      0.07543995235189926
+    ],
+    "quality_score": 0.9884243971205223,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9653604308487473,
+      "orientation_stability": 0.9946807104557008,
+      "gyro_quality": 0.9615020438241769
+    }
+  },
+  {
+    "timestamp": 4.31438127090301,
+    "vehicle_acceleration": [
+      8.84411787809847,
+      -0.32845211237879623,
+      -5.778925657208542
+    ],
+    "estimated_orientation": [
+      -0.002602960846679855,
+      -0.5707589369214439,
+      0.03273552443493671
+    ],
+    "quality_score": 0.9885511958326413,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9835777912783363,
+      "orientation_stability": 0.9604736569867938,
+      "gyro_quality": 0.9776458902895497
+    }
+  },
+  {
+    "timestamp": 4.414715719063545,
+    "vehicle_acceleration": [
+      9.202992016197522,
+      -0.06912590376790609,
+      -5.81181347839556
+    ],
+    "estimated_orientation": [
+      -0.0037980394216204807,
+      -0.5735289217309365,
+      -0.0010105640619509568
+    ],
+    "quality_score": 0.9841962110595681,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9551588884838104,
+      "orientation_stability": 0.9714064019558544,
+      "gyro_quality": 0.9745347306942782
+    }
+  },
+  {
+    "timestamp": 4.51505016722408,
+    "vehicle_acceleration": [
+      9.13358717875252,
+      -0.12092206726041131,
+      -5.608232855466987
+    ],
+    "estimated_orientation": [
+      -0.008679386040107664,
+      -0.5698493119342685,
+      -0.027523574511265074
+    ],
+    "quality_score": 0.9843355930367722,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9513143042302111,
+      "orientation_stability": 0.9800335722723338,
+      "gyro_quality": 0.9706769634987985
+    }
+  },
+  {
+    "timestamp": 4.615384615384616,
+    "vehicle_acceleration": [
+      9.119257083687653,
+      -0.0026475964919013342,
+      -5.3904931704268755
+    ],
+    "estimated_orientation": [
+      -0.004940070765134294,
+      -0.5630195120648831,
+      -0.0006560747490267985
+    ],
+    "quality_score": 0.9793695331147245,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9352312166180987,
+      "orientation_stability": 0.9709649038994796,
+      "gyro_quality": 0.9667855420618272
+    }
+  },
+  {
+    "timestamp": 4.7157190635451505,
+    "vehicle_acceleration": [
+      8.908203070821589,
+      -0.2057673725160879,
+      -5.222957900676738
+    ],
+    "estimated_orientation": [
+      -0.011332335713787053,
+      -0.5533523591916129,
+      -0.02671828502207608
+    ],
+    "quality_score": 0.984418007225297,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9579104057726081,
+      "orientation_stability": 0.9792885850288874,
+      "gyro_quality": 0.9594263831644221
+    }
+  },
+  {
+    "timestamp": 4.816053511705686,
+    "vehicle_acceleration": [
+      8.991487140078311,
+      -0.1386064410693413,
+      -5.26771553914334
+    ],
+    "estimated_orientation": [
+      -0.015036111915659576,
+      -0.5502506100688224,
+      -0.047089807404561076
+    ],
+    "quality_score": 0.9803576771437399,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9472603575271237,
+      "orientation_stability": 0.9863114661009578,
+      "gyro_quality": 0.9295888572317141
+    }
+  },
+  {
+    "timestamp": 4.916387959866221,
+    "vehicle_acceleration": [
+      8.912682915040854,
+      -0.4318245603006164,
+      -5.2440237283137145
+    ],
+    "estimated_orientation": [
+      -0.026774298813816322,
+      -0.5470209929638271,
+      -0.06288633355141052
+    ],
+    "quality_score": 0.9835468975677546,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9585182889579216,
+      "orientation_stability": 0.9892079952680762,
+      "gyro_quality": 0.9346204048595889
+    }
+  },
+  {
+    "timestamp": 5.016722408026756,
+    "vehicle_acceleration": [
+      8.753289298951866,
+      -0.4973096749620747,
+      -5.13008793721043
+    ],
+    "estimated_orientation": [
+      -0.035778489204279854,
+      -0.5410205394007714,
+      -0.07501590690817472
+    ],
+    "quality_score": 0.9896308902206307,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9753471018191725,
+      "orientation_stability": 0.99353265998242,
+      "gyro_quality": 0.9553157085943305
+    }
+  },
+  {
+    "timestamp": 5.117056856187291,
+    "vehicle_acceleration": [
+      8.80632273281295,
+      -0.6504145784376897,
+      -5.459565649019745
+    ],
+    "estimated_orientation": [
+      -0.04630849050358569,
+      -0.5457117388958984,
+      -0.08421651457952722
+    ],
+    "quality_score": 0.9946749757320599,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9942836350592706,
+      "orientation_stability": 0.9922248430789454,
+      "gyro_quality": 0.9698452225836384
+    }
+  },
+  {
+    "timestamp": 5.217391304347826,
+    "vehicle_acceleration": [
+      8.773426490466845,
+      -0.57893104531605,
+      -5.165390216773073
+    ],
+    "estimated_orientation": [
+      -0.049780093483136306,
+      -0.5416529236215423,
+      -0.09108697061558177
+    ],
+    "quality_score": 0.9899665129852038,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.973206748404996,
+      "orientation_stability": 0.9994759993444842,
+      "gyro_quality": 0.9540376340253186
+    }
+  },
+  {
+    "timestamp": 5.317725752508362,
+    "vehicle_acceleration": [
+      8.753366151358803,
+      -0.5864955730736603,
+      -5.063044457495426
+    ],
+    "estimated_orientation": [
+      -0.05212148027416673,
+      -0.5371005072087166,
+      -0.09611228191782321
+    ],
+    "quality_score": 0.9861826000640046,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.966784961649451,
+      "orientation_stability": 0.9977749318234315,
+      "gyro_quality": 0.9315936796059963
+    }
+  },
+  {
+    "timestamp": 5.418060200668896,
+    "vehicle_acceleration": [
+      8.948416662681405,
+      -0.7178383330531405,
+      -5.288744018530731
+    ],
+    "estimated_orientation": [
+      -0.057862342395869855,
+      -0.5417478851048851,
+      -0.0996844756060639
+    ],
+    "quality_score": 0.9864935296294336,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.951785283303505,
+      "orientation_stability": 0.9936080675919522,
+      "gyro_quality": 0.970952628299397
+    }
+  },
+  {
+    "timestamp": 5.518394648829432,
+    "vehicle_acceleration": [
+      8.644249993639546,
+      -0.3646548791233032,
+      -5.220004689505332
+    ],
+    "estimated_orientation": [
+      -0.0505106854588666,
+      -0.5401191250036502,
+      -0.10211969278545471
+    ],
+    "quality_score": 0.990173808268633,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9990488190243838,
+      "orientation_stability": 0.9919327303831275,
+      "gyro_quality": 0.9157413490628699
+    }
+  },
+  {
+    "timestamp": 5.618729096989966,
+    "vehicle_acceleration": [
+      8.870389245301604,
+      -0.7033945986914424,
+      -5.153249181357018
+    ],
+    "estimated_orientation": [
+      -0.05641618704421508,
+      -0.5397706674352126,
+      -0.10367221101015096
+    ],
+    "quality_score": 0.9839138855897824,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9538530765935601,
+      "orientation_stability": 0.9948442474697888,
+      "gyro_quality": 0.9391663315060195
+    }
+  },
+  {
+    "timestamp": 5.719063545150502,
+    "vehicle_acceleration": [
+      8.636769105099514,
+      -0.7916760977599985,
+      -4.93518197981917
+    ],
+    "estimated_orientation": [
+      -0.0614067364709095,
+      -0.5319976767655812,
+      -0.10454594058587256
+    ],
+    "quality_score": 0.9896254395085065,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9727694412288141,
+      "orientation_stability": 0.9941393017915435,
+      "gyro_quality": 0.9595065599401206
+    }
+  },
+  {
+    "timestamp": 5.819397993311037,
+    "vehicle_acceleration": [
+      8.514912571176264,
+      -0.8689610039578904,
+      -5.016422172288277
+    ],
+    "estimated_orientation": [
+      -0.06642197397469543,
+      -0.5280346345291342,
+      -0.10490384353439376
+    ],
+    "quality_score": 0.9961106429394813,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9995731390229359,
+      "orientation_stability": 0.9949968847715371,
+      "gyro_quality": 0.9694648241916353
+    }
+  },
+  {
+    "timestamp": 5.919732441471572,
+    "vehicle_acceleration": [
+      8.618857826813054,
+      -0.8781295802330118,
+      -4.980523553369642
+    ],
+    "estimated_orientation": [
+      -0.06923712317217262,
+      -0.5265286260983442,
+      -0.10487564479105234
+    ],
+    "quality_score": 0.9894757137356772,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9780571348505965,
+      "orientation_stability": 0.9950615857824899,
+      "gyro_quality": 0.9460504889818433
+    }
+  },
+  {
+    "timestamp": 6.0200668896321075,
+    "vehicle_acceleration": [
+      8.516040958468107,
+      -0.9767585604526561,
+      -5.022662005679071
+    ],
+    "estimated_orientation": [
+      -0.07342971489816782,
+      -0.5252833518484576,
+      -0.10456413995874314
+    ],
+    "quality_score": 0.991877029319748,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.998487152909146,
+      "orientation_stability": 0.9951071841464372,
+      "gyro_quality": 0.9291352111595315
+    }
+  },
+  {
+    "timestamp": 6.120401337792642,
+    "vehicle_acceleration": [
+      8.77417797644601,
+      -1.1151343424632243,
+      -5.177105684054946
+    ],
+    "estimated_orientation": [
+      -0.07975475483199185,
+      -0.5309448399283266,
+      -0.10405035020077853
+    ],
+    "quality_score": 0.9868969172653868,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9651846535751073,
+      "orientation_stability": 0.9926059609261267,
+      "gyro_quality": 0.9496909241144625
+    }
+  },
+  {
+    "timestamp": 6.2207357859531776,
+    "vehicle_acceleration": [
+      8.40181191697673,
+      -1.138876131842937,
+      -4.845954389845644
+    ],
+    "estimated_orientation": [
+      -0.08249485136313395,
+      -0.5222932661843882,
+      -0.10339773057818975
+    ],
+    "quality_score": 0.9916888775107652,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9971870453875991,
+      "orientation_stability": 0.9940012412744189,
+      "gyro_quality": 0.9315128224208247
+    }
+  },
+  {
+    "timestamp": 6.321070234113712,
+    "vehicle_acceleration": [
+      8.470071901412899,
+      -1.04762667786534,
+      -4.7793585121705
+    ],
+    "estimated_orientation": [
+      -0.08611737277969393,
+      -0.517116522968715,
+      -0.15019868188282198
+    ],
+    "quality_score": 0.9878166765184158,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9807933068813991,
+      "orientation_stability": 0.9620632219314128,
+      "gyro_quality": 0.9734853185242394
+    }
+  },
+  {
+    "timestamp": 6.421404682274248,
+    "vehicle_acceleration": [
+      8.643046704614047,
+      -1.095023904273116,
+      -4.774361445136666
+    ],
+    "estimated_orientation": [
+      -0.09342015585918563,
+      -0.5161545813799329,
+      -0.18689580696983182
+    ],
+    "quality_score": 0.9837878981213463,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.950280141708809,
+      "orientation_stability": 0.9736320655025957,
+      "gyro_quality": 0.97687059954195
+    }
+  },
+  {
+    "timestamp": 6.521739130434783,
+    "vehicle_acceleration": [
+      8.33387015870551,
+      -1.1901629780073422,
+      -5.041321072500623
+    ],
+    "estimated_orientation": [
+      -0.10312264951955616,
+      -0.5174102150425405,
+      -0.21545903556137658
+    ],
+    "quality_score": 0.9863084577118773,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9710838159667201,
+      "orientation_stability": 0.9822633007024685,
+      "gyro_quality": 0.9475219941316299
+    }
+  },
+  {
+    "timestamp": 6.622073578595318,
+    "vehicle_acceleration": [
+      8.40276414729734,
+      -1.1020247789914959,
+      -4.753615133490517
+    ],
+    "estimated_orientation": [
+      -0.10698988207688576,
+      -0.5132020501049368,
+      -0.23749305339967222
+    ],
+    "quality_score": 0.9890558777277466,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9883252418994811,
+      "orientation_stability": 0.9898176373293965,
+      "gyro_quality": 0.9291818374844084
+    }
+  },
+  {
+    "timestamp": 6.722408026755853,
+    "vehicle_acceleration": [
+      8.483206582422792,
+      -0.9894694645484013,
+      -4.873378469582136
+    ],
+    "estimated_orientation": [
+      -0.10826163804148911,
+      -0.5151887902634651,
+      -0.25430316562480326
+    ],
+    "quality_score": 0.9939638278970321,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.986719087152925,
+      "orientation_stability": 0.9940899156813878,
+      "gyro_quality": 0.9750652311423883
+    }
+  },
+  {
+    "timestamp": 6.822742474916388,
+    "vehicle_acceleration": [
+      8.386173090034703,
+      -1.1429064905969446,
+      -4.809665132074592
+    ],
+    "estimated_orientation": [
+      -0.11379295155254798,
+      -0.5130449598281228,
+      -0.2669494752335351
+    ],
+    "quality_score": 0.9955595249547934,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.996591873145302,
+      "orientation_stability": 0.9987600218696282,
+      "gyro_quality": 0.9642714704528864
+    }
+  },
+  {
+    "timestamp": 6.923076923076923,
+    "vehicle_acceleration": [
+      8.174093808291186,
+      -1.5302258223571856,
+      -4.576166185146567
+    ],
+    "estimated_orientation": [
+      -0.12695176861571505,
+      -0.5021295865478044,
+      -0.2762914293802098
+    ],
+    "quality_score": 0.9909285894692986,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9967529963270347,
+      "orientation_stability": 0.9916550634498759,
+      "gyro_quality": 0.9282973068641016
+    }
+  },
+  {
+    "timestamp": 7.023411371237458,
+    "vehicle_acceleration": [
+      8.38066740772498,
+      -1.4944816937743082,
+      -4.647858348289281
+    ],
+    "estimated_orientation": [
+      -0.13489274378259275,
+      -0.5009576692926639,
+      -0.2830244277841603
+    ],
+    "quality_score": 0.9876013827901127,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9716228063099287,
+      "orientation_stability": 0.9950595037847296,
+      "gyro_quality": 0.9401789596041744
+    }
+  },
+  {
+    "timestamp": 7.1237458193979935,
+    "vehicle_acceleration": [
+      8.292906134104383,
+      -1.1923932649696047,
+      -4.647779766687276
+    ],
+    "estimated_orientation": [
+      -0.13083139924586812,
+      -0.5011559015577598,
+      -0.28770989141338826
+    ],
+    "quality_score": 0.9925517044191436,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9883832995661876,
+      "orientation_stability": 0.9915015162385389,
+      "gyro_quality": 0.9614981707012511
+    }
+  },
+  {
+    "timestamp": 7.224080267558529,
+    "vehicle_acceleration": [
+      8.466697668781325,
+      -1.6057294080633442,
+      -4.851826516719953
+    ],
+    "estimated_orientation": [
+      -0.14159216335155617,
+      -0.5055859054187012,
+      -0.2907999450729563
+    ],
+    "quality_score": 0.9906660359333322,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9746238388057229,
+      "orientation_stability": 0.990844140559989,
+      "gyro_quality": 0.9711464708818927
+    }
+  },
+  {
+    "timestamp": 7.3244147157190636,
+    "vehicle_acceleration": [
+      8.293416542393304,
+      -1.7949131369694644,
+      -4.819908127307753
+    ],
+    "estimated_orientation": [
+      -0.15165207100139244,
+      -0.5044707424575968,
+      -0.2926576655778786
+    ],
+    "quality_score": 0.9476593977393718,
+    "confidence_metrics": {
+      "gps_quality": 0.840212745773754,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9955697250174307,
+      "orientation_stability": 0.991822694671968,
+      "gyro_quality": 0.9770822480296422
+    }
+  },
+  {
+    "timestamp": 7.424749163879599,
+    "vehicle_acceleration": [
+      8.28202882381682,
+      -1.5005360018436766,
+      -4.800352744620937
+    ],
+    "estimated_orientation": [
+      -0.14858852608118073,
+      -0.5054204165992827,
+      -0.2935736804313674
+    ],
+    "quality_score": 0.9902744027827374,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9978993315046327,
+      "orientation_stability": 0.9904273326198801,
+      "gyro_quality": 0.9213043658882882
+    }
+  },
+  {
+    "timestamp": 7.525083612040134,
+    "vehicle_acceleration": [
+      8.357666895710196,
+      -1.6402620541722814,
+      -4.744998564468544
+    ],
+    "estimated_orientation": [
+      -0.15056456239769062,
+      -0.5048306859056695,
+      -0.2937797642435858
+    ],
+    "quality_score": 0.9874970426398024,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9781618694058665,
+      "orientation_stability": 0.9919895130582395,
+      "gyro_quality": 0.9306624179989322
+    }
+  },
+  {
+    "timestamp": 7.625418060200669,
+    "vehicle_acceleration": [
+      8.136020922250568,
+      -1.882985297431674,
+      -4.3714906286081865
+    ],
+    "estimated_orientation": [
+      -0.155775981067886,
+      -0.4921869536966375,
+      -0.2934599664593708
+    ],
+    "quality_score": 0.9881162966930901,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9720649081942614,
+      "orientation_stability": 0.9895369241473341,
+      "gyro_quality": 0.9527277643213775
+    }
+  },
+  {
+    "timestamp": 7.725752508361205,
+    "vehicle_acceleration": [
+      8.131947790913243,
+      -2.1550003648883806,
+      -4.799929031448622
+    ],
+    "estimated_orientation": [
+      -0.17385708670397734,
+      -0.49215659666838035,
+      -0.34030257945504183
+    ],
+    "quality_score": 0.9888193397921622,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9893188846543609,
+      "orientation_stability": 0.9643434656445443,
+      "gyro_quality": 0.9630404301460825
+    }
+  },
+  {
+    "timestamp": 7.826086956521739,
+    "vehicle_acceleration": [
+      8.178399675461563,
+      -1.8412579005534053,
+      -4.704405338482865
+    ],
+    "estimated_orientation": [
+      -0.17290916334532874,
+      -0.4937599572875055,
+      -0.3292839122996004
+    ],
+    "quality_score": 0.9885660252108968,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.993812812720746,
+      "orientation_stability": 0.9802957003001119,
+      "gyro_quality": 0.9275910762173077
+    }
+  },
+  {
+    "timestamp": 7.926421404682275,
+    "vehicle_acceleration": [
+      7.97961582546412,
+      -1.923437380504766,
+      -4.669466079446453
+    ],
+    "estimated_orientation": [
+      -0.17268541182908642,
+      -0.49083100225756043,
+      -0.32002907956935994
+    ],
+    "quality_score": 0.9846572913328007,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9771452755668871,
+      "orientation_stability": 0.9834886723765384,
+      "gyro_quality": 0.9170493536294244
+    }
+  },
+  {
+    "timestamp": 8.02675585284281,
+    "vehicle_acceleration": [
+      8.293888206956947,
+      -1.8832690588495598,
+      -4.69061859373741
+    ],
+    "estimated_orientation": [
+      -0.17153380950487457,
+      -0.4941582912042019,
+      -0.3122489893637598
+    ],
+    "quality_score": 0.9879157157306465,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9713121451710777,
+      "orientation_stability": 0.9854178849533566,
+      "gyro_quality": 0.9584060395342745
+    }
+  },
+  {
+    "timestamp": 8.127090301003344,
+    "vehicle_acceleration": [
+      8.331344275847144,
+      -2.135852509978446,
+      -4.919670267190073
+    ],
+    "estimated_orientation": [
+      -0.18325492452279332,
+      -0.4993769048700048,
+      -0.35324560648704945
+    ],
+    "quality_score": 0.9897369060244614,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9845747021065137,
+      "orientation_stability": 0.9688886800591714,
+      "gyro_quality": 0.9748866359428281
+    }
+  },
+  {
+    "timestamp": 8.22742474916388,
+    "vehicle_acceleration": [
+      8.099327983482187,
+      -2.2619899076042707,
+      -4.674934390060856
+    ],
+    "estimated_orientation": [
+      -0.19354229816754695,
+      -0.49315803867697167,
+      -0.3852230504296652
+    ],
+    "quality_score": 0.9490236045857581,
+    "confidence_metrics": {
+      "gps_quality": 0.8602670452948465,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9971691301960096,
+      "orientation_stability": 0.9791939917428013,
+      "gyro_quality": 0.94630566196682
+    }
+  },
+  {
+    "timestamp": 8.327759197324415,
+    "vehicle_acceleration": [
+      7.99121087832844,
+      -2.1198186221353725,
+      -4.825078385564719
+    ],
+    "estimated_orientation": [
+      -0.19856948356522564,
+      -0.49301743656866903,
+      -0.40995476720664814
+    ],
+    "quality_score": 0.9895600451704192,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9687878122112231,
+      "orientation_stability": 0.9876043925435157,
+      "gyro_quality": 0.9766182384664707
+    }
+  },
+  {
+    "timestamp": 8.42809364548495,
+    "vehicle_acceleration": [
+      7.9836849799375464,
+      -2.000729980248333,
+      -4.471193814873404
+    ],
+    "estimated_orientation": [
+      -0.19754769401183378,
+      -0.48601678756305106,
+      -0.4288839171908664
+    ],
+    "quality_score": 0.9948068941730749,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9986857903267417,
+      "orientation_stability": 0.9917016554284307,
+      "gyro_quality": 0.9631448779346198
+    }
+  },
+  {
+    "timestamp": 8.528428093645486,
+    "vehicle_acceleration": [
+      8.020782479805568,
+      -2.2354388160968655,
+      -4.828916778469788
+    ],
+    "estimated_orientation": [
+      -0.20786300639814098,
+      -0.4883185110034633,
+      -0.44318308450353877
+    ],
+    "quality_score": 0.9910454148995902,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9763388220691919,
+      "orientation_stability": 0.9951795848657266,
+      "gyro_quality": 0.9650071275589279
+    }
+  },
+  {
+    "timestamp": 8.62876254180602,
+    "vehicle_acceleration": [
+      7.976037472957643,
+      -2.07839225720947,
+      -4.559056242018695
+    ],
+    "estimated_orientation": [
+      -0.20775338935497215,
+      -0.48488186515336135,
+      -0.4538033782833937
+    ],
+    "quality_score": 0.9946178878146615,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.994927758199664,
+      "orientation_stability": 0.9960841504012672,
+      "gyro_quality": 0.9621971361453858
+    }
+  },
+  {
+    "timestamp": 8.729096989966555,
+    "vehicle_acceleration": [
+      7.9961281162068865,
+      -2.1885209304240485,
+      -4.48966495344813
+    ],
+    "estimated_orientation": [
+      -0.21129131734165968,
+      -0.4805712305432073,
+      -0.46151479068911905
+    ],
+    "quality_score": 0.9930683878195872,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9924307182063383,
+      "orientation_stability": 0.9955455889374761,
+      "gyro_quality": 0.9525040583769798
+    }
+  },
+  {
+    "timestamp": 8.82943143812709,
+    "vehicle_acceleration": [
+      7.984563227912755,
+      -2.0627713930890565,
+      -4.550919699464184
+    ],
+    "estimated_orientation": [
+      -0.21089088691273686,
+      -0.4806384689860798,
+      -0.46693935080167975
+    ],
+    "quality_score": 0.9932578110346487,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9988612010072832,
+      "orientation_stability": 0.9932723220789091,
+      "gyro_quality": 0.944947225213556
+    }
+  },
+  {
+    "timestamp": 8.929765886287626,
+    "vehicle_acceleration": [
+      7.8028301261949755,
+      -2.3426969109016906,
+      -4.349291079105575
+    ],
+    "estimated_orientation": [
+      -0.21626988996751662,
+      -0.47118400027741497,
+      -0.47057834455064806
+    ],
+    "quality_score": 0.990614368896005,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9936947410163934,
+      "orientation_stability": 0.9914438086124261,
+      "gyro_quality": 0.9315884940086241
+    }
+  },
+  {
+    "timestamp": 9.03010033444816,
+    "vehicle_acceleration": [
+      7.808513817203082,
+      -2.232279156712677,
+      -4.3966522392558005
+    ],
+    "estimated_orientation": [
+      -0.21747619972118765,
+      -0.4681945187962462,
+      -0.4728346485654058
+    ],
+    "quality_score": 0.9894188763918559,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9914797690852432,
+      "orientation_stability": 0.9920811208270485,
+      "gyro_quality": 0.9231075445074981
+    }
+  },
+  {
+    "timestamp": 9.130434782608695,
+    "vehicle_acceleration": [
+      7.68455994880879,
+      -2.273212913878678,
+      -4.37767369558118
+    ],
+    "estimated_orientation": [
+      -0.21874431114341442,
+      -0.4640997029197254,
+      -0.4740310423233143
+    ],
+    "quality_score": 0.9922735638216068,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9742851011588524,
+      "orientation_stability": 0.9916951022925773,
+      "gyro_quality": 0.9866227824594966
+    }
+  },
+  {
+    "timestamp": 9.230769230769232,
+    "vehicle_acceleration": [
+      7.784418304269382,
+      -2.348934929276862,
+      -4.609224348472864
+    ],
+    "estimated_orientation": [
+      -0.2239092201591037,
+      -0.46765022393596123,
+      -0.4744252114154295
+    ],
+    "quality_score": 0.989564141275879,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9704545436307462,
+      "orientation_stability": 0.990926829796862,
+      "gyro_quality": 0.9683420808020035
+    }
+  },
+  {
+    "timestamp": 9.331103678929766,
+    "vehicle_acceleration": [
+      8.102937780388897,
+      -2.5137969321190474,
+      -4.643867504232533
+    ],
+    "estimated_orientation": [
+      -0.23224317922878995,
+      -0.4732944223719924,
+      -0.47422202962269566
+    ],
+    "quality_score": 0.9882100823125656,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9723244450954528,
+      "orientation_stability": 0.9901220380055455,
+      "gyro_quality": 0.9522688759264317
+    }
+  },
+  {
+    "timestamp": 9.431438127090301,
+    "vehicle_acceleration": [
+      7.765504372542735,
+      -2.4169510113853985,
+      -4.507470673581057
+    ],
+    "estimated_orientation": [
+      -0.23076888786300565,
+      -0.4707384192462526,
+      -0.47358360420081075
+    ],
+    "quality_score": 0.9887448271936691,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9824174026522379,
+      "orientation_stability": 0.9912551217682402,
+      "gyro_quality": 0.9357307839798547
+    }
+  },
+  {
+    "timestamp": 9.531772575250836,
+    "vehicle_acceleration": [
+      7.9405409691123765,
+      -2.5365587107614442,
+      -4.582655368361241
+    ],
+    "estimated_orientation": [
+      -0.23452984068804641,
+      -0.4719878123814265,
+      -0.47263748351504475
+    ],
+    "quality_score": 0.9952710153200818,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.991948941978887,
+      "orientation_stability": 0.9922065679175464,
+      "gyro_quality": 0.9805024173667235
+    }
+  },
+  {
+    "timestamp": 9.632107023411372,
+    "vehicle_acceleration": [
+      7.832474052602748,
+      -2.526038308084903,
+      -4.51766594192427
+    ],
+    "estimated_orientation": [
+      -0.23489157741458114,
+      -0.47025135404829893,
+      -0.47148335581022144
+    ],
+    "quality_score": 0.9959175736839013,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9969060763708733,
+      "orientation_stability": 0.9924370215614373,
+      "gyro_quality": 0.9767080517551108
+    }
+  },
+  {
+    "timestamp": 9.732441471571907,
+    "vehicle_acceleration": [
+      7.696729201117372,
+      -2.5562280122570598,
+      -4.71923943031597
+    ],
+    "estimated_orientation": [
+      -0.23677359434239367,
+      -0.4717660290897592,
+      -0.47019850985298156
+    ],
+    "quality_score": 0.9839464646996519,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9545873823259512,
+      "orientation_stability": 0.992864230203867,
+      "gyro_quality": 0.9409935370388157
+    }
+  },
+  {
+    "timestamp": 9.832775919732441,
+    "vehicle_acceleration": [
+      7.801053305186026,
+      -2.6580488586499165,
+      -4.538651268207677
+    ],
+    "estimated_orientation": [
+      -0.23912589129277761,
+      -0.4690926451610446,
+      -0.4688422803004163
+    ],
+    "quality_score": 0.9947300171573176,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9941094366740255,
+      "orientation_stability": 0.9935048181836854,
+      "gyro_quality": 0.9688240709495968
+    }
+  },
+  {
+    "timestamp": 9.933110367892978,
+    "vehicle_acceleration": [
+      7.961818158840209,
+      -2.661198150528575,
+      -4.487188628579143
+    ],
+    "estimated_orientation": [
+      -0.2406586815062995,
+      -0.4686514874204011,
+      -0.4674596611602284
+    ],
+    "quality_score": 0.991238109518245,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9712636917564612,
+      "orientation_stability": 0.9939248537991786,
+      "gyro_quality": 0.97896643097076
+    }
+  },
+  {
+    "timestamp": 10.033444816053512,
+    "vehicle_acceleration": [
+      7.961441043513238,
+      -2.7411916716593434,
+      -4.507156078976392
+    ],
+    "estimated_orientation": [
+      -0.24351029367828947,
+      -0.468166503092881,
+      -0.466084238149346
+    ],
+    "quality_score": 0.9904232108303701,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9701356854608217,
+      "orientation_stability": 0.9944753067007938,
+      "gyro_quality": 0.9722477773308665
+    }
+  },
+  {
+    "timestamp": 10.133779264214047,
+    "vehicle_acceleration": [
+      7.952676096568615,
+      -2.3891503653716404,
+      -4.535270254728033
+    ],
+    "estimated_orientation": [
+      -0.23553904419390131,
+      -0.47207667585869384,
+      -0.4647405639211934
+    ],
+    "quality_score": 0.9919888562951389,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9830162757821157,
+      "orientation_stability": 0.9906569002061804,
+      "gyro_quality": 0.9678706610778864
+    }
+  },
+  {
+    "timestamp": 10.234113712374581,
+    "vehicle_acceleration": [
+      8.016617680197045,
+      -2.668392650443795,
+      -4.382128753280194
+    ],
+    "estimated_orientation": [
+      -0.24239571082058184,
+      -0.46790891625370334,
+      -0.510988939189615
+    ],
+    "quality_score": 0.9806545565072446,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9577408663192155,
+      "orientation_stability": 0.9624745457437751,
+      "gyro_quality": 0.9473520138183525
+    }
+  },
+  {
+    "timestamp": 10.334448160535118,
+    "vehicle_acceleration": [
+      8.217032330853284,
+      -2.6292840459913034,
+      -4.710598777423168
+    ],
+    "estimated_orientation": [
+      -0.24759957624779658,
+      -0.4761514181044625,
+      -0.4997033379687969
+    ],
+    "quality_score": 0.984138719596388,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9506532057003891,
+      "orientation_stability": 0.9826715847109981,
+      "gyro_quality": 0.9660734074966031
+    }
+  },
+  {
+    "timestamp": 10.434782608695652,
+    "vehicle_acceleration": [
+      8.047305937373501,
+      -2.6048311422045174,
+      -4.492783912079652
+    ],
+    "estimated_orientation": [
+      -0.24525705419831087,
+      -0.47486508552368495,
+      -0.49042731971770653
+    ],
+    "quality_score": 0.9857568702393262,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9593705394315357,
+      "orientation_stability": 0.9863197347911795,
+      "gyro_quality": 0.9593480213434209
+    }
+  },
+  {
+    "timestamp": 10.535117056856187,
+    "vehicle_acceleration": [
+      7.95560615378953,
+      -2.736814048894227,
+      -4.813500631249541
+    ],
+    "estimated_orientation": [
+      -0.2542000086613574,
+      -0.47806012486714033,
+      -0.5303499788561958
+    ],
+    "quality_score": 0.9898741965901776,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9927730393676051,
+      "orientation_stability": 0.9684576742955984,
+      "gyro_quality": 0.9605093757231691
+    }
+  },
+  {
+    "timestamp": 10.635451505016723,
+    "vehicle_acceleration": [
+      7.865248515083346,
+      -2.6623178842801787,
+      -4.846401783514317
+    ],
+    "estimated_orientation": [
+      -0.25450407731021873,
+      -0.48122094662946296,
+      -0.5140414851074558
+    ],
+    "quality_score": 0.9871764010121584,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9762848552782664,
+      "orientation_stability": 0.9790596113928236,
+      "gyro_quality": 0.9506048824758151
+    }
+  },
+  {
+    "timestamp": 10.735785953177258,
+    "vehicle_acceleration": [
+      7.91273611540069,
+      -2.7039486431352278,
+      -4.606730035651649
+    ],
+    "estimated_orientation": [
+      -0.2521685739260912,
+      -0.47792784776428393,
+      -0.5007969893950055
+    ],
+    "quality_score": 0.9934952372594509,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.990859097462959,
+      "orientation_stability": 0.9829835775107734,
+      "gyro_quality": 0.9787588114024303
+    }
+  },
+  {
+    "timestamp": 10.836120401337793,
+    "vehicle_acceleration": [
+      8.01176186474991,
+      -2.6995655307949753,
+      -4.6317415979100565
+    ],
+    "estimated_orientation": [
+      -0.25049034288735145,
+      -0.4778153610638974,
+      -0.49005982010580784
+    ],
+    "quality_score": 0.9846459949365576,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9753819935231458,
+      "orientation_stability": 0.9866136400552407,
+      "gyro_quality": 0.9157755022364235
+    }
+  },
+  {
+    "timestamp": 10.936454849498329,
+    "vehicle_acceleration": [
+      8.114899587059881,
+      -2.619224457611652,
+      -4.690160947277531
+    ],
+    "estimated_orientation": [
+      -0.2526633333504739,
+      -0.4805216133941534,
+      -0.528915359885357
+    ],
+    "quality_score": 0.9857464275440438,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9692625528408566,
+      "orientation_stability": 0.9683079288541289,
+      "gyro_quality": 0.9664772764775322
+    }
+  },
+  {
+    "timestamp": 11.036789297658864,
+    "vehicle_acceleration": [
+      7.9681976546074536,
+      -2.6827351534592183,
+      -4.559581576600667
+    ],
+    "estimated_orientation": [
+      -0.256757064956034,
+      -0.4764393809898546,
+      -0.5593928144230378
+    ],
+    "quality_score": 0.9905948774893021,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9839444895280884,
+      "orientation_stability": 0.9778566147198189,
+      "gyro_quality": 0.9712748737571156
+    }
+  },
+  {
+    "timestamp": 11.137123745819398,
+    "vehicle_acceleration": [
+      8.002784886612393,
+      -2.3635883865940674,
+      -4.514034135678268
+    ],
+    "estimated_orientation": [
+      -0.2479599199991378,
+      -0.47742587337952686,
+      -0.5355818411823905
+    ],
+    "quality_score": 0.9827320642484303,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.974994893519467,
+      "orientation_stability": 0.9714784279633294,
+      "gyro_quality": 0.9201132135003754
+    }
+  },
+  {
+    "timestamp": 11.237458193979933,
+    "vehicle_acceleration": [
+      7.8636271434490705,
+      -2.5662895867747975,
+      -4.446955012943542
+    ],
+    "estimated_orientation": [
+      -0.2451543680006399,
+      -0.47229732151637227,
+      -0.5164074137459063
+    ],
+    "quality_score": 0.9898601393113043,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9907797821103689,
+      "orientation_stability": 0.9780779840408593,
+      "gyro_quality": 0.9499248528310154
+    }
+  },
+  {
+    "timestamp": 11.33779264214047,
+    "vehicle_acceleration": [
+      7.838848632650264,
+      -2.5530965128715324,
+      -4.534506753117835
+    ],
+    "estimated_orientation": [
+      -0.24269180401068888,
+      -0.4710727849182807,
+      -0.5010104682195923
+    ],
+    "quality_score": 0.986068076128201,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9973751555364906,
+      "orientation_stability": 0.9832242833611038,
+      "gyro_quality": 0.8910940251673727
+    }
+  },
+  {
+    "timestamp": 11.438127090301004,
+    "vehicle_acceleration": [
+      7.955348394242821,
+      -2.6803987296779304,
+      -4.478915695825897
+    ],
+    "estimated_orientation": [
+      -0.24361671176950772,
+      -0.46934272143887257,
+      -0.48868678408007304
+    ],
+    "quality_score": 0.9863391349962626,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9730878578434631,
+      "orientation_stability": 0.9872807357128199,
+      "gyro_quality": 0.9362945307064685
+    }
+  },
+  {
+    "timestamp": 11.538461538461538,
+    "vehicle_acceleration": [
+      7.795222648840744,
+      -2.607341781321366,
+      -4.626034209233379
+    ],
+    "estimated_orientation": [
+      -0.2468519112950729,
+      -0.4698641518520031,
+      -0.5264023843526777
+    ],
+    "quality_score": 0.9848696527103898,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9798392420656356,
+      "orientation_stability": 0.9675118410019098,
+      "gyro_quality": 0.9377502814697624
+    }
+  },
+  {
+    "timestamp": 11.638795986622075,
+    "vehicle_acceleration": [
+      8.109146535120273,
+      -2.6190128371867547,
+      -4.636626436090006
+    ],
+    "estimated_orientation": [
+      -0.25385004830227026,
+      -0.4739189205298179,
+      -0.5560901349999161
+    ],
+    "quality_score": 0.986338649799138,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9672835096698968,
+      "orientation_stability": 0.9764985510694463,
+      "gyro_quality": 0.9640716520474173
+    }
+  },
+  {
+    "timestamp": 11.73913043478261,
+    "vehicle_acceleration": [
+      8.027418342235467,
+      -2.5468201842712315,
+      -4.804737494388267
+    ],
+    "estimated_orientation": [
+      -0.253291099543158,
+      -0.48081032699870174,
+      -0.5317621304417646
+    ],
+    "quality_score": 0.9881518619015941,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9951478683634729,
+      "orientation_stability": 0.9731732089602038,
+      "gyro_quality": 0.9314630688486889
+    }
+  },
+  {
+    "timestamp": 11.839464882943144,
+    "vehicle_acceleration": [
+      7.907428784115541,
+      -2.6049793353948347,
+      -4.486884026761373
+    ],
+    "estimated_orientation": [
+      -0.2536765145671831,
+      -0.4752099601985047,
+      -0.5598239383947705
+    ],
+    "quality_score": 0.992221816169314,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9895818358906133,
+      "orientation_stability": 0.9778584376605923,
+      "gyro_quality": 0.9762668334210246
+    }
+  },
+  {
+    "timestamp": 11.939799331103679,
+    "vehicle_acceleration": [
+      7.971513444695342,
+      -2.4842527848574325,
+      -4.814570745136566
+    ],
+    "estimated_orientation": [
+      -0.256739757431177,
+      -0.48133903063507194,
+      -0.5817716313517348
+    ],
+    "quality_score": 0.9905666246753959,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9875162701868408,
+      "orientation_stability": 0.984607137661594,
+      "gyro_quality": 0.9537229998878842
+    }
+  },
+  {
+    "timestamp": 12.040133779264215,
+    "vehicle_acceleration": [
+      7.846694910570927,
+      -2.4641097495427067,
+      -4.540554699381032
+    ],
+    "estimated_orientation": [
+      -0.25596303821148747,
+      -0.4774507543463728,
+      -0.5988022354019473
+    ],
+    "quality_score": 0.99437888318383,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.988651853727637,
+      "orientation_stability": 0.9901201738951574,
+      "gyro_quality": 0.9813048635402907
+    }
+  },
+  {
+    "timestamp": 12.14046822742475,
+    "vehicle_acceleration": [
+      8.015591659985862,
+      -2.1727938217596496,
+      -4.675144856144171
+    ],
+    "estimated_orientation": [
+      -0.24626742629730083,
+      -0.4836904416138383,
+      -0.564347490424764
+    ],
+    "quality_score": 0.9902241204776832,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.995099105680677,
+      "orientation_stability": 0.9623539642164063,
+      "gyro_quality": 0.968512047090868
+    }
+  },
+  {
+    "timestamp": 12.240802675585284,
+    "vehicle_acceleration": [
+      8.084299072714177,
+      -2.2739835798816115,
+      -4.4914523161084015
+    ],
+    "estimated_orientation": [
+      -0.239056009102227,
+      -0.4825076181940165,
+      -0.5367947696150278
+    ],
+    "quality_score": 0.9870286058323965,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9680581978195324,
+      "orientation_stability": 0.9715541795605049,
+      "gyro_quality": 0.9768383933441426
+    }
+  },
+  {
+    "timestamp": 12.34113712374582,
+    "vehicle_acceleration": [
+      8.08032454826538,
+      -2.413206604098604,
+      -4.529639998861744
+    ],
+    "estimated_orientation": [
+      -0.24217847364450992,
+      -0.480397214706202,
+      -0.5623890645718681
+    ],
+    "quality_score": 0.9875527203762671,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9756209652200237,
+      "orientation_stability": 0.9788416395560063,
+      "gyro_quality": 0.9560228139886127
+    }
+  },
+  {
+    "timestamp": 12.441471571906355,
+    "vehicle_acceleration": [
+      8.10393005881669,
+      -2.4493196702540794,
+      -4.582772805556332
+    ],
+    "estimated_orientation": [
+      -0.24249480219438987,
+      -0.4807308974882414,
+      -0.5349305200937823
+    ],
+    "quality_score": 0.9874362731423634,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9709068101350369,
+      "orientation_stability": 0.9725826270128042,
+      "gyro_quality": 0.9736751706343528
+    }
+  },
+  {
+    "timestamp": 12.54180602006689,
+    "vehicle_acceleration": [
+      8.089751533559314,
+      -2.3351421175813045,
+      -4.681911332094099
+    ],
+    "estimated_orientation": [
+      -0.23775161249743826,
+      -0.4844396490579597,
+      -0.5130870509337965
+    ],
+    "quality_score": 0.9868829965874948,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9833995320974619,
+      "orientation_stability": 0.9791873514007301,
+      "gyro_quality": 0.933249874578928
+    }
+  },
+  {
+    "timestamp": 12.642140468227424,
+    "vehicle_acceleration": [
+      8.068993337550006,
+      -2.332530309437898,
+      -4.627001342507526
+    ],
+    "estimated_orientation": [
+      -0.2323357309336541,
+      -0.4850351597076549,
+      -0.49579178869145873
+    ],
+    "quality_score": 0.9891963817678826,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9836175155872375,
+      "orientation_stability": 0.9846917106316742,
+      "gyro_quality": 0.9476912205568397
+    }
+  },
+  {
+    "timestamp": 12.74247491638796,
+    "vehicle_acceleration": [
+      8.08920901432603,
+      -2.4253554425987045,
+      -4.713953674733317
+    ],
+    "estimated_orientation": [
+      -0.23114281166271364,
+      -0.4864941736349709,
+      -0.4821729158920764
+    ],
+    "quality_score": 0.9940064851642576,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9878772171552235,
+      "orientation_stability": 0.9893546220735354,
+      "gyro_quality": 0.980278484221826
+    }
+  },
+  {
+    "timestamp": 12.842809364548495,
+    "vehicle_acceleration": [
+      8.323829139241125,
+      -2.438354138762957,
+      -4.88160104333681
+    ],
+    "estimated_orientation": [
+      -0.23176463621611837,
+      -0.4938300127668859,
+      -0.4715187806845156
+    ],
+    "quality_score": 0.9877365572021567,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9618689434785569,
+      "orientation_stability": 0.9915189434556547,
+      "gyro_quality": 0.9663492698809706
+    }
+  },
+  {
+    "timestamp": 12.94314381270903,
+    "vehicle_acceleration": [
+      8.240609945762179,
+      -2.683956077827889,
+      -4.735571027292786
+    ],
+    "estimated_orientation": [
+      -0.23563091913712753,
+      -0.49160910411866277,
+      -0.4632491693092794
+    ],
+    "quality_score": 0.9875024798668318,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.95734430295899,
+      "orientation_stability": 0.9941596372528706,
+      "gyro_quality": 0.9690967368710326
+    }
+  },
+  {
+    "timestamp": 13.043478260869566,
+    "vehicle_acceleration": [
+      8.116786703708724,
+      -2.353726552081036,
+      -5.147999964744809
+    ],
+    "estimated_orientation": [
+      -0.23073983874100437,
+      -0.5017129551604824,
+      -0.4568916581702817
+    ],
+    "quality_score": 0.9875897053763402,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9768025426781172,
+      "orientation_stability": 0.992889882357819,
+      "gyro_quality": 0.9329571448704377
+    }
+  },
+  {
+    "timestamp": 13.143812709030101,
+    "vehicle_acceleration": [
+      8.163248673027912,
+      -2.650488234059518,
+      -4.9647866608511535
+    ],
+    "estimated_orientation": [
+      -0.23367210273785582,
+      -0.5008159069299324,
+      -0.4520621551645433
+    ],
+    "quality_score": 0.9938468430486009,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9947669904094678,
+      "orientation_stability": 0.9970188520066535,
+      "gyro_quality": 0.9534061716570934
+    }
+  },
+  {
+    "timestamp": 13.244147157190636,
+    "vehicle_acceleration": [
+      8.081272289406359,
+      -2.5952311250856606,
+      -4.870053653800135
+    ],
+    "estimated_orientation": [
+      -0.23245913730393,
+      -0.49779495134026147,
+      -0.4484488951307468
+    ],
+    "quality_score": 0.9956446788429988,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9998935840293381,
+      "orientation_stability": 0.9971341406635297,
+      "gyro_quality": 0.9609584093760171
+    }
+  },
+  {
+    "timestamp": 13.34448160535117,
+    "vehicle_acceleration": [
+      8.2807685811174,
+      -2.327728271975451,
+      -4.982765399276118
+    ],
+    "estimated_orientation": [
+      -0.22605037129858066,
+      -0.5033815686104781,
+      -0.44579928252186823
+    ],
+    "quality_score": 0.9910175672386795,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9816152887751681,
+      "orientation_stability": 0.9950961841100459,
+      "gyro_quality": 0.9543008186713883
+    }
+  },
+  {
+    "timestamp": 13.444816053511706,
+    "vehicle_acceleration": [
+      8.292060383531783,
+      -2.4463742624336473,
+      -5.247287188694918
+    ],
+    "estimated_orientation": [
+      -0.2270808113787291,
+      -0.5114599224373249,
+      -0.4439090803625323
+    ],
+    "quality_score": 0.9939948122132587,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9957912850785828,
+      "orientation_stability": 0.9952665661832438,
+      "gyro_quality": 0.9554657027005552
+    }
+  },
+  {
+    "timestamp": 13.545150501672241,
+    "vehicle_acceleration": [
+      8.34893065334207,
+      -2.51753193219706,
+      -5.023450946091226
+    ],
+    "estimated_orientation": [
+      -0.22728674950215655,
+      -0.5109855468410124,
+      -0.44261353208294746
+    ],
+    "quality_score": 0.9914131168234321,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9737837347599061,
+      "orientation_stability": 0.9974326266013267,
+      "gyro_quality": 0.9704147588125187
+    }
+  },
+  {
+    "timestamp": 13.645484949832776,
+    "vehicle_acceleration": [
+      8.174920673591306,
+      -2.5305576691333385,
+      -5.052789998947899
+    ],
+    "estimated_orientation": [
+      -0.22735970212196416,
+      -0.5091780757894511,
+      -0.4417800751238134
+    ],
+    "quality_score": 0.9911717816412294,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9932327185765043,
+      "orientation_stability": 0.9967840337823787,
+      "gyro_quality": 0.9300763285857173
+    }
+  },
+  {
+    "timestamp": 13.745819397993312,
+    "vehicle_acceleration": [
+      8.320471024743213,
+      -2.314711996806403,
+      -5.079747952052987
+    ],
+    "estimated_orientation": [
+      -0.2223121684318233,
+      -0.5123448541258778,
+      -0.4413023649226794
+    ],
+    "quality_score": 0.9917298256978281,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9879977961580704,
+      "orientation_stability": 0.9961351355502406,
+      "gyro_quality": 0.9470999613367782
+    }
+  },
+  {
+    "timestamp": 13.846153846153847,
+    "vehicle_acceleration": [
+      8.139527592685381,
+      -2.2533541430480293,
+      -5.22054671539091
+    ],
+    "estimated_orientation": [
+      -0.2178443464278483,
+      -0.515668100005645,
+      -0.4410953772064438
+    ],
+    "quality_score": 0.9860616375938454,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9626815827331399,
+      "orientation_stability": 0.9964958516699214,
+      "gyro_quality": 0.9405094329672914
+    }
+  },
+  {
+    "timestamp": 13.946488294314381,
+    "vehicle_acceleration": [
+      8.470996354935801,
+      -2.257208093607377,
+      -5.2007635747397964
+    ],
+    "estimated_orientation": [
+      -0.21648569412414095,
+      -0.5205233797426874,
+      -0.4410913972331644
+    ],
+    "quality_score": 0.9891137036943142,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9784000643304924,
+      "orientation_stability": 0.9968256471434654,
+      "gyro_quality": 0.9390984375669588
+    }
+  },
+  {
+    "timestamp": 14.046822742474916,
+    "vehicle_acceleration": [
+      8.417609118674509,
+      -2.2289423046983523,
+      -5.177119268525393
+    ],
+    "estimated_orientation": [
+      -0.21421964438234073,
+      -0.5223259666216971,
+      -0.4412367382422434
+    ],
+    "quality_score": 0.9922584510697537,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9882693235990441,
+      "orientation_stability": 0.9975052679876566,
+      "gyro_quality": 0.9497879615179635
+    }
+  },
+  {
+    "timestamp": 14.147157190635452,
+    "vehicle_acceleration": [
+      8.561284265613914,
+      -2.270662242839254,
+      -5.383737255365283
+    ],
+    "estimated_orientation": [
+      -0.21598267787435946,
+      -0.529191483201544,
+      -0.44148905911971775
+    ],
+    "quality_score": 0.9918731477923995,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9802371225760045,
+      "orientation_stability": 0.995607393394601,
+      "gyro_quality": 0.9648461426800846
+    }
+  },
+  {
+    "timestamp": 14.247491638795987,
+    "vehicle_acceleration": [
+      8.551368873616225,
+      -2.4019353495367897,
+      -5.41854430165214
+    ],
+    "estimated_orientation": [
+      -0.22016614181795982,
+      -0.5327411331373973,
+      -0.44181517418515304
+    ],
+    "quality_score": 0.9913552557173689,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9950777945323962,
+      "gravity_consistency": 0.982777078080294,
+      "orientation_stability": 0.9958779860379439,
+      "gyro_quality": 0.9664869356251945
+    }
+  },
+  {
+    "timestamp": 14.347826086956522,
+    "vehicle_acceleration": [
+      8.48626372908243,
+      -2.307492410230163,
+      -5.426263058790367
+    ],
+    "estimated_orientation": [
+      -0.21928091814622472,
+      -0.5352650027168527,
+      -0.4421892669018893
+    ],
+    "quality_score": 0.9922219245775146,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9963751968129554,
+      "orientation_stability": 0.9978910785583265,
+      "gyro_quality": 0.932632234311745
+    }
+  },
+  {
+    "timestamp": 14.448160535117058,
+    "vehicle_acceleration": [
+      8.565049125990607,
+      -2.195911148584363,
+      -5.559249155920589
+    ],
+    "estimated_orientation": [
+      -0.21665176350430101,
+      -0.5415505692001514,
+      -0.44259143490016567
+    ],
+    "quality_score": 0.9888124264665923,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9798155410555978,
+      "gravity_consistency": 0.9958882600908939,
+      "orientation_stability": 0.9966041787457072,
+      "gyro_quality": 0.9519026237265799
+    }
+  },
+  {
+    "timestamp": 14.548494983277592,
+    "vehicle_acceleration": [
+      8.557034369964892,
+      -2.2086415729220823,
+      -5.438022738254176
+    ],
+    "estimated_orientation": [
+      -0.21429928188496672,
+      -0.5418959604615137,
+      -0.44300650655903556
+    ],
+    "quality_score": 0.9873639050007273,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.974517644523662,
+      "gravity_consistency": 0.9900109646113691,
+      "orientation_stability": 0.997415566346873,
+      "gyro_quality": 0.9611996599550713
+    }
+  },
+  {
+    "timestamp": 14.648829431438127,
+    "vehicle_acceleration": [
+      8.588778202833058,
+      -1.9877362426562073,
+      -5.770250158687512
+    ],
+    "estimated_orientation": [
+      -0.20894448302732616,
+      -0.5520961354823206,
+      -0.44342307999402736
+    ],
+    "quality_score": 0.9909466070547648,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.984813552024043,
+      "orientation_stability": 0.9940922429451331,
+      "gyro_quality": 0.9487006020818625
+    }
+  },
+  {
+    "timestamp": 14.749163879598662,
+    "vehicle_acceleration": [
+      8.670861766630983,
+      -1.9521197533922143,
+      -5.7099819488837795
+    ],
+    "estimated_orientation": [
+      -0.20419223709335166,
+      -0.5572626826419984,
+      -0.4438327440365705
+    ],
+    "quality_score": 0.9819511026207928,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.93852783643148,
+      "gravity_consistency": 0.9994173175322277,
+      "orientation_stability": 0.9969919259099072,
+      "gyro_quality": 0.9788689111999122
+    }
+  },
+  {
+    "timestamp": 14.849498327759198,
+    "vehicle_acceleration": [
+      8.777618197090945,
+      -2.2015678095204163,
+      -5.686515943566399
+    ],
+    "estimated_orientation": [
+      -0.20868055301699082,
+      -0.5582717055194139,
+      -0.4442294479932977
+    ],
+    "quality_score": 0.992942414107834,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9782817350560495,
+      "orientation_stability": 0.9955951568885504,
+      "gyro_quality": 0.9794679356334147
+    }
+  },
+  {
+    "timestamp": 14.949832775919733,
+    "vehicle_acceleration": [
+      8.744800829256445,
+      -2.1996605986112487,
+      -5.840094046310078
+    ],
+    "estimated_orientation": [
+      -0.2118065879046495,
+      -0.5623599696877938,
+      -0.44460899290694994
+    ],
+    "quality_score": 0.9952303333368472,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9939391071204724,
+      "orientation_stability": 0.9969161229842061,
+      "gyro_quality": 0.9690509346512179
+    }
+  },
+  {
+    "timestamp": 15.050167224080267,
+    "vehicle_acceleration": [
+      8.734740685085496,
+      -1.7945104018278455,
+      -5.701640613703392
+    ],
+    "estimated_orientation": [
+      -0.2007638481926935,
+      -0.5645972055294116,
+      -0.44496862192754755
+    ],
+    "quality_score": 0.9944780822800595,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9905803269646765,
+      "orientation_stability": 0.9932760267016421,
+      "gyro_quality": 0.9737061288187795
+    }
+  },
+  {
+    "timestamp": 15.150501672240804,
+    "vehicle_acceleration": [
+      8.79527248019832,
+      -2.206572489606986,
+      -5.77252315715092
+    ],
+    "estimated_orientation": [
+      -0.2071938310945385,
+      -0.5641859420324224,
+      -0.4453066914259307
+    ],
+    "quality_score": 0.9923432519435029,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9990829912870399,
+      "gravity_consistency": 0.9845356467887907,
+      "orientation_stability": 0.9942804587794863,
+      "gyro_quality": 0.9652330594706187
+    }
+  },
+  {
+    "timestamp": 15.250836120401338,
+    "vehicle_acceleration": [
+      8.941979409180227,
+      -1.746635048704328,
+      -5.947820705816926
+    ],
+    "estimated_orientation": [
+      -0.19363114954160335,
+      -0.5730559595546192,
+      -0.39807954664342915
+    ],
+    "quality_score": 0.986839447494857,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9696885709833211,
+      "orientation_stability": 0.9580340734984231,
+      "gyro_quality": 0.9919662227342921
+    }
+  },
+  {
+    "timestamp": 15.351170568561873,
+    "vehicle_acceleration": [
+      9.018803011912384,
+      -1.8489561147583544,
+      -5.926049498941498
+    ],
+    "estimated_orientation": [
+      -0.19008799775158378,
+      -0.5769542514396447,
+      -0.4084249348225517
+    ],
+    "quality_score": 0.9543216882773257,
+    "confidence_metrics": {
+      "gps_quality": 0.9048499407057191,
+      "motion_quality": 0.9947043791169049,
+      "gravity_consistency": 0.9607650402038665,
+      "orientation_stability": 0.9871019728222402,
+      "gyro_quality": 0.9397230732227431
+    }
+  },
+  {
+    "timestamp": 15.45150501672241,
+    "vehicle_acceleration": [
+      8.900150185859815,
+      -1.8492970065669707,
+      -6.134694017974194
+    ],
+    "estimated_orientation": [
+      -0.18950940311352804,
+      -0.5830463673604717,
+      -0.4168071719515791
+    ],
+    "quality_score": 0.9898019879872241,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9874550562427696,
+      "gravity_consistency": 0.999332972834436,
+      "orientation_stability": 0.9896241011880533,
+      "gyro_quality": 0.9462801418143651
+    }
+  },
+  {
+    "timestamp": 15.551839464882944,
+    "vehicle_acceleration": [
+      8.757214652804755,
+      -1.7779109226816718,
+      -5.90696495317562
+    ],
+    "estimated_orientation": [
+      -0.18567195830119176,
+      -0.580113084501406,
+      -0.4235849213172843
+    ],
+    "quality_score": 0.9827276240488894,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9540451216493185,
+      "gravity_consistency": 0.985669497984567,
+      "orientation_stability": 0.9908725957044836,
+      "gyro_quality": 0.9845155468397374
+    }
+  },
+  {
+    "timestamp": 15.652173913043478,
+    "vehicle_acceleration": [
+      9.117931212818558,
+      -1.7757248246868182,
+      -6.292234855897569
+    ],
+    "estimated_orientation": [
+      -0.1881371778405943,
+      -0.5906685036752249,
+      -0.4290527248823923
+    ],
+    "quality_score": 0.9820374847967316,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9698274051980107,
+      "gravity_consistency": 0.9738093363019115,
+      "orientation_stability": 0.9915692912064515,
+      "gyro_quality": 0.960833725558788
+    }
+  },
+  {
+    "timestamp": 15.752508361204013,
+    "vehicle_acceleration": [
+      8.859102787219598,
+      -1.939763413767724,
+      -6.189706124902028
+    ],
+    "estimated_orientation": [
+      -0.19207461461375847,
+      -0.5909514937976937,
+      -0.4334523188030696
+    ],
+    "quality_score": 0.9870750879854389,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9849606846123777,
+      "gravity_consistency": 0.983954641686114,
+      "orientation_stability": 0.9935373316103269,
+      "gyro_quality": 0.9501338875357268
+    }
+  },
+  {
+    "timestamp": 15.85284280936455,
+    "vehicle_acceleration": [
+      8.855613000846835,
+      -1.8218273872318185,
+      -6.221504860701681
+    ],
+    "estimated_orientation": [
+      -0.18591844012330042,
+      -0.5923845289161185,
+      -0.3894391068678229
+    ],
+    "quality_score": 0.9776949642010523,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9656052776456816,
+      "gravity_consistency": 0.9855574187739361,
+      "orientation_stability": 0.9616046298870147,
+      "gyro_quality": 0.9494146655179236
+    }
+  },
+  {
+    "timestamp": 15.953177257525084,
+    "vehicle_acceleration": [
+      8.855027000376205,
+      -1.9719923246810975,
+      -6.341037420738236
+    ],
+    "estimated_orientation": [
+      -0.18378348186583449,
+      -0.5945166349215345,
+      -0.3547706210373492
+    ],
+    "quality_score": 0.9813131631034511,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9683533235693987,
+      "gravity_consistency": 0.979771521650612,
+      "orientation_stability": 0.9727764531085359,
+      "gyro_quality": 0.9735405991469864
+    }
+  },
+  {
+    "timestamp": 16.05351170568562,
+    "vehicle_acceleration": [
+      8.96407876962363,
+      -1.9794967022641217,
+      -6.466490069112988
+    ],
+    "estimated_orientation": [
+      -0.18065390731926909,
+      -0.5993535502573915,
+      -0.32763896457805275
+    ],
+    "quality_score": 0.9921498121412335,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9934063717808386,
+      "orientation_stability": 0.9813699152256176,
+      "gyro_quality": 0.9626305050122324
+    }
+  },
+  {
+    "timestamp": 16.153846153846153,
+    "vehicle_acceleration": [
+      9.08877918330355,
+      -2.0728941987865617,
+      -6.78951841929737
+    ],
+    "estimated_orientation": [
+      -0.18090033181028903,
+      -0.6101540470992414,
+      -0.30657005019748296
+    ],
+    "quality_score": 0.9937716116367099,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9993581961661502,
+      "orientation_stability": 0.9871207414512324,
+      "gyro_quality": 0.9583186118579494
+    }
+  },
+  {
+    "timestamp": 16.254180602006688,
+    "vehicle_acceleration": [
+      9.004881616275158,
+      -1.8449089167062003,
+      -6.6568372585306035
+    ],
+    "estimated_orientation": [
+      -0.1708910376885714,
+      -0.6135252616989684,
+      -0.29036355240100836
+    ],
+    "quality_score": 0.9917296985508914,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9860563914681283,
+      "orientation_stability": 0.9914094224200957,
+      "gyro_quality": 0.9580700689425131
+    }
+  },
+  {
+    "timestamp": 16.354515050167226,
+    "vehicle_acceleration": [
+      9.149205670521475,
+      -2.09199694997582,
+      -6.924686238900646
+    ],
+    "estimated_orientation": [
+      -0.17293204222373618,
+      -0.6211964020656179,
+      -0.2780434962567057
+    ],
+    "quality_score": 0.9970491674818898,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9994890571955437,
+      "orientation_stability": 0.9953495919829933,
+      "gyro_quality": 0.9784891724533193
+    }
+  },
+  {
+    "timestamp": 16.45484949832776,
+    "vehicle_acceleration": [
+      9.089601811027258,
+      -2.096513112288793,
+      -6.9249157210037025
+    ],
+    "estimated_orientation": [
+      -0.1725309414677869,
+      -0.6249449845918642,
+      -0.2688176161906363
+    ],
+    "quality_score": 0.9933836730144905,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9943726144114413,
+      "gravity_consistency": 0.9896381605815087,
+      "orientation_stability": 0.9989533698304393,
+      "gyro_quality": 0.970198818207626
+    }
+  },
+  {
+    "timestamp": 16.555183946488295,
+    "vehicle_acceleration": [
+      9.256000697242648,
+      -2.219261535552198,
+      -7.529109746761839
+    ],
+    "estimated_orientation": [
+      -0.17809671599568833,
+      -0.6423699538829809,
+      -0.2620439440093237
+    ],
+    "quality_score": 0.992209096646134,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9955490498035424,
+      "orientation_stability": 0.9899580542691044,
+      "gyro_quality": 0.9460557854505982
+    }
+  },
+  {
+    "timestamp": 16.65551839464883,
+    "vehicle_acceleration": [
+      9.490162231188377,
+      -2.2416591217727135,
+      -7.2484493778287975
+    ],
+    "estimated_orientation": [
+      -0.18384682692035056,
+      -0.6466641960799976,
+      -0.3047462154870768
+    ],
+    "quality_score": 0.9787196142687906,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9977935360361044,
+      "gravity_consistency": 0.9491119472772869,
+      "orientation_stability": 0.9539231208038921,
+      "gyro_quality": 0.9636037268372328
+    }
+  },
+  {
+    "timestamp": 16.755852842809364,
+    "vehicle_acceleration": [
+      9.160790472758384,
+      -2.1516602323834046,
+      -6.902105240400257
+    ],
+    "estimated_orientation": [
+      -0.18555279291656931,
+      -0.6392247929569829,
+      -0.3389105617967498
+    ],
+    "quality_score": 0.9936618903413614,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9992211676714134,
+      "orientation_stability": 0.9640792885217847,
+      "gyro_quality": 0.9920576352881092
+    }
+  },
+  {
+    "timestamp": 16.8561872909699,
+    "vehicle_acceleration": [
+      9.27390224499545,
+      -2.082415745407627,
+      -7.194761395367254
+    ],
+    "estimated_orientation": [
+      -0.18989337677030071,
+      -0.643685125250094,
+      -0.3661409093948787
+    ],
+    "quality_score": 0.9916174219650933,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9935578572015554,
+      "orientation_stability": 0.9735034412962387,
+      "gyro_quality": 0.9688033433034628
+    }
+  },
+  {
+    "timestamp": 16.956521739130434,
+    "vehicle_acceleration": [
+      9.219022736043323,
+      -2.0263543313405856,
+      -7.377096850533065
+    ],
+    "estimated_orientation": [
+      -0.1878121970993016,
+      -0.6505973872019386,
+      -0.3402069359814787
+    ],
+    "quality_score": 0.9940535164831623,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9897579610900135,
+      "orientation_stability": 0.9773187439233189,
+      "gyro_quality": 0.9950411267666165
+    }
+  },
+  {
+    "timestamp": 17.056856187290972,
+    "vehicle_acceleration": [
+      9.128115946360245,
+      -1.9804046409008174,
+      -7.419089381088195
+    ],
+    "estimated_orientation": [
+      -0.1824550821740713,
+      -0.6548928463610089,
+      -0.31977675287390717
+    ],
+    "quality_score": 0.9869573823347568,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9687911637561488,
+      "orientation_stability": 0.9836026159696513,
+      "gyro_quality": 0.9565875718807932
+    }
+  },
+  {
+    "timestamp": 17.157190635451506,
+    "vehicle_acceleration": [
+      9.334946382173696,
+      -1.9915497998800704,
+      -7.783387762278558
+    ],
+    "estimated_orientation": [
+      -0.17991454193539008,
+      -0.6671680788283318,
+      -0.30378577692215974
+    ],
+    "quality_score": 0.9918821621202089,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9935531048976529,
+      "orientation_stability": 0.9878381052896584,
+      "gyro_quality": 0.9499582534722941
+    }
+  },
+  {
+    "timestamp": 17.25752508361204,
+    "vehicle_acceleration": [
+      9.286279663571317,
+      -2.0580257368030703,
+      -7.983801288654636
+    ],
+    "estimated_orientation": [
+      -0.1790564513648974,
+      -0.6782872525445243,
+      -0.2913659674727522
+    ],
+    "quality_score": 0.988995243155834,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9972235941153957,
+      "gravity_consistency": 0.9766874097999689,
+      "orientation_stability": 0.9919370710624199,
+      "gyro_quality": 0.9556130200762825
+    }
+  },
+  {
+    "timestamp": 17.357859531772576,
+    "vehicle_acceleration": [
+      9.338062470705736,
+      -2.2760824072059536,
+      -7.6308211407051365
+    ],
+    "estimated_orientation": [
+      -0.18174088003550565,
+      -0.6741025460614881,
+      -0.28181047339498105
+    ],
+    "quality_score": 0.9931599204372028,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9964333613755425,
+      "orientation_stability": 0.9923119260612492,
+      "gyro_quality": 0.9502645925290688
+    }
+  },
+  {
+    "timestamp": 17.45819397993311,
+    "vehicle_acceleration": [
+      9.442670303133108,
+      -2.2018667475595746,
+      -8.012072930075483
+    ],
+    "estimated_orientation": [
+      -0.1823108192266462,
+      -0.6821354460405521,
+      -0.27454454203639894
+    ],
+    "quality_score": 0.9951230557404691,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9890194034489298,
+      "orientation_stability": 0.9971836179297026,
+      "gyro_quality": 0.9774163236122774
+    }
+  },
+  {
+    "timestamp": 17.558528428093645,
+    "vehicle_acceleration": [
+      9.32091524623662,
+      -2.3757163554323504,
+      -8.20373194152621
+    ],
+    "estimated_orientation": [
+      -0.18757408515302884,
+      -0.6898128317450393,
+      -0.2691015913488468
+    ],
+    "quality_score": 0.9908791366719912,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9855701819658715,
+      "orientation_stability": 0.9959257054806921,
+      "gyro_quality": 0.9437624445671313
+    }
+  },
+  {
+    "timestamp": 17.65886287625418,
+    "vehicle_acceleration": [
+      9.525154176493498,
+      -2.1126552633636044,
+      -8.045165017796437
+    ],
+    "estimated_orientation": [
+      -0.18041904127705333,
+      -0.6923466144779578,
+      -0.26510353809313575
+    ],
+    "quality_score": 0.9866949094259638,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9750273471483872,
+      "orientation_stability": 0.9949521567214578,
+      "gyro_quality": 0.9244661648806773
+    }
+  },
+  {
+    "timestamp": 17.759197324414718,
+    "vehicle_acceleration": [
+      9.39707208382303,
+      -2.081075952973033,
+      -8.531651544649757
+    ],
+    "estimated_orientation": [
+      -0.17731267425568584,
+      -0.7055982134777712,
+      -0.26224463338672094
+    ],
+    "quality_score": 0.9894911047486132,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9836447613696532,
+      "orientation_stability": 0.9940093975245838,
+      "gyro_quality": 0.9366074284599504
+    }
+  },
+  {
+    "timestamp": 17.859531772575252,
+    "vehicle_acceleration": [
+      9.463580114624571,
+      -2.2227965053281107,
+      -8.289093813327801
+    ],
+    "estimated_orientation": [
+      -0.1778303991303217,
+      -0.705917342627502,
+      -0.2602781876799787
+    ],
+    "quality_score": 0.9922190937824371,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9965343015416689,
+      "orientation_stability": 0.9954839983778998,
+      "gyro_quality": 0.9358963371741829
+    }
+  },
+  {
+    "timestamp": 17.959866220735787,
+    "vehicle_acceleration": [
+      9.536775685380588,
+      -2.2905359599326984,
+      -8.497370840170008
+    ],
+    "estimated_orientation": [
+      -0.18099760505304552,
+      -0.7110432256959709,
+      -0.25900567530862084
+    ],
+    "quality_score": 0.9888988828315757,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9848700806386954,
+      "orientation_stability": 0.9959034306481277,
+      "gyro_quality": 0.925393521066174
+    }
+  },
+  {
+    "timestamp": 18.06020066889632,
+    "vehicle_acceleration": [
+      9.606936667679278,
+      -2.3350983393367066,
+      -8.822137286366502
+    ],
+    "estimated_orientation": [
+      -0.1903224252393811,
+      -0.722847736526343,
+      -0.3058106591706519
+    ],
+    "quality_score": 0.9835599148643284,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9779335933658668,
+      "orientation_stability": 0.9538667948144963,
+      "gyro_quality": 0.9489317696898046
+    }
+  },
+  {
+    "timestamp": 18.160535117056856,
+    "vehicle_acceleration": [
+      9.443920171525374,
+      -2.4285469321795112,
+      -8.736006360825439
+    ],
+    "estimated_orientation": [
+      -0.19516578871386195,
+      -0.726264592093186,
+      -0.29542784335453603
+    ],
+    "quality_score": 0.9938890437868012,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9959926432589107,
+      "orientation_stability": 0.9910768564902792,
+      "gyro_quality": 0.9602898666147718
+    }
+  },
+  {
+    "timestamp": 18.26086956521739,
+    "vehicle_acceleration": [
+      9.612071944598144,
+      -2.4423510455800974,
+      -8.494233584505574
+    ],
+    "estimated_orientation": [
+      -0.20106115653300688,
+      -0.7229671493369461,
+      -0.3348346026054606
+    ],
+    "quality_score": 0.9830429164036183,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9921756668067395,
+      "gravity_consistency": 0.9679072432568081,
+      "orientation_stability": 0.9631364784805341,
+      "gyro_quality": 0.9694707927849168
+    }
+  },
+  {
+    "timestamp": 18.361204013377925,
+    "vehicle_acceleration": [
+      9.334851942615314,
+      -2.3891878109870635,
+      -8.6579148450279
+    ],
+    "estimated_orientation": [
+      -0.20654670397348793,
+      -0.7259044116114767,
+      -0.3659974022621425
+    ],
+    "quality_score": 0.9838307221001418,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9732324898903801,
+      "orientation_stability": 0.9734681048849757,
+      "gyro_quality": 0.9316400838931937
+    }
+  },
+  {
+    "timestamp": 18.461538461538463,
+    "vehicle_acceleration": [
+      9.454548440611466,
+      -2.3027292250924902,
+      -8.594756100769818
+    ],
+    "estimated_orientation": [
+      -0.2036566134648749,
+      -0.7260117375336691,
+      -0.3429571950842004
+    ],
+    "quality_score": 0.9901761600472639,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9996457470610214,
+      "orientation_stability": 0.9761996538017341,
+      "gyro_quality": 0.9381706256479952
+    }
+  },
+  {
+    "timestamp": 18.561872909698998,
+    "vehicle_acceleration": [
+      9.329402241354444,
+      -2.493960881700537,
+      -8.563897087524783
+    ],
+    "estimated_orientation": [
+      -0.21103435813630006,
+      -0.7242613839682704,
+      -0.37214436654134464
+    ],
+    "quality_score": 0.9832083410774123,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9759505063169304,
+      "orientation_stability": 0.9749682914488059,
+      "gyro_quality": 0.917729960967052
+    }
+  },
+  {
+    "timestamp": 18.662207357859533,
+    "vehicle_acceleration": [
+      9.280886699463172,
+      -2.4568672686291433,
+      -8.773533096118044
+    ],
+    "estimated_orientation": [
+      -0.2172307962077356,
+      -0.7298385021343542,
+      -0.3950763589724886
+    ],
+    "quality_score": 0.9855040835077088,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9646257801537071,
+      "orientation_stability": 0.9826145553209549,
+      "gyro_quality": 0.9518674417882413
+    }
+  },
+  {
+    "timestamp": 18.762541806020067,
+    "vehicle_acceleration": [
+      9.706131923257162,
+      -2.2402727349677822,
+      -8.732168800575904
+    ],
+    "estimated_orientation": [
+      -0.2159231321114519,
+      -0.7344753051166625,
+      -0.41296862244298543
+    ],
+    "quality_score": 0.9833238357234932,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9522004240144796,
+      "orientation_stability": 0.988394696464192,
+      "gyro_quality": 0.9462454645096839
+    }
+  },
+  {
+    "timestamp": 18.862876254180602,
+    "vehicle_acceleration": [
+      9.636678901007103,
+      -2.2339336836344375,
+      -8.92803803213768
+    ],
+    "estimated_orientation": [
+      -0.2167491421843158,
+      -0.7426339210267674,
+      -0.4268116618406038
+    ],
+    "quality_score": 0.9848919446018988,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9704195197696859,
+      "orientation_stability": 0.9924978787004731,
+      "gyro_quality": 0.9193335884289062
+    }
+  },
+  {
+    "timestamp": 18.963210702341136,
+    "vehicle_acceleration": [
+      9.567781016309917,
+      -2.2411759193017233,
+      -8.985076247361244
+    ],
+    "estimated_orientation": [
+      -0.2175969870012368,
+      -0.7491832615566325,
+      -0.4374115560477677
+    ],
+    "quality_score": 0.9928940969083379,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9866640178563031,
+      "orientation_stability": 0.9960796363383649,
+      "gyro_quality": 0.9614934788632246
+    }
+  },
+  {
+    "timestamp": 19.06354515050167,
+    "vehicle_acceleration": [
+      9.59536611624303,
+      -2.183060189203219,
+      -8.954254015212559
+    ],
+    "estimated_orientation": [
+      -0.216244962579327,
+      -0.7527730010921277,
+      -0.44542329399076697
+    ],
+    "quality_score": 0.9936349265251813,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9832875058555665,
+      "orientation_stability": 0.9977480581205136,
+      "gyro_quality": 0.9731521663599081
+    }
+  },
+  {
+    "timestamp": 19.16387959866221,
+    "vehicle_acceleration": [
+      9.492781230492207,
+      -2.567644185365437,
+      -9.35131897975866
+    ],
+    "estimated_orientation": [
+      -0.22974054632078164,
+      -0.762980349430429,
+      -0.4513781886285343
+    ],
+    "quality_score": 0.9941759113753008,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9999572091595492,
+      "orientation_stability": 0.991351606174194,
+      "gyro_quality": 0.9548172861726172
+    }
+  },
+  {
+    "timestamp": 19.264214046822744,
+    "vehicle_acceleration": [
+      9.470375036148551,
+      -2.4714693597332236,
+      -9.387339586971711
+    ],
+    "estimated_orientation": [
+      -0.23255287681767614,
+      -0.7711861625163742,
+      -0.4557064098917019
+    ],
+    "quality_score": 0.9979571044359616,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9992884659183534,
+      "orientation_stability": 0.9969329115903313,
+      "gyro_quality": 0.9855947451374123
+    }
+  },
+  {
+    "timestamp": 19.36454849498328,
+    "vehicle_acceleration": [
+      9.54642853381482,
+      -2.4868063253806705,
+      -9.48765629356252
+    ],
+    "estimated_orientation": [
+      -0.2344704410667084,
+      -0.7785480340261921,
+      -0.45875549578247515
+    ],
+    "quality_score": 0.9904787720585606,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9846710497270973,
+      "orientation_stability": 0.9965214099604418,
+      "gyro_quality": 0.9406635061907488
+    }
+  },
+  {
+    "timestamp": 19.464882943143813,
+    "vehicle_acceleration": [
+      9.294888672248335,
+      -2.6514690499240197,
+      -9.498699900960503
+    ],
+    "estimated_orientation": [
+      -0.239142489662936,
+      -0.7825575919365625,
+      -0.46080555066424733
+    ],
+    "quality_score": 0.8606000411748853,
+    "confidence_metrics": {
+      "gps_quality": 0.5695141251358851,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.966095244578953,
+      "orientation_stability": 0.9958024757858472,
+      "gyro_quality": 0.9715638335045204
+    }
+  },
+  {
+    "timestamp": 19.565217391304348,
+    "vehicle_acceleration": [
+      9.578239130211982,
+      -2.529550797928741,
+      -9.338112067415395
+    ],
+    "estimated_orientation": [
+      -0.23742502233050627,
+      -0.7808464753500505,
+      -0.46208171572215956
+    ],
+    "quality_score": 0.9901986168794638,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9780517861111481,
+      "orientation_stability": 0.9932919391071338,
+      "gyro_quality": 0.9559446879116394
+    }
+  },
+  {
+    "timestamp": 19.665551839464882,
+    "vehicle_acceleration": [
+      9.698239021186245,
+      -2.676129064769202,
+      -9.672022314746249
+    ],
+    "estimated_orientation": [
+      -0.24366088816444875,
+      -0.7871489985827659,
+      -0.4627643941270806
+    ],
+    "quality_score": 0.9865299688634166,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9480885810948407,
+      "orientation_stability": 0.9947436313656389,
+      "gyro_quality": 0.9770070793960258
+    }
+  },
+  {
+    "timestamp": 19.765886287625417,
+    "vehicle_acceleration": [
+      9.34424346494949,
+      -2.843373043683059,
+      -9.505187442421494
+    ],
+    "estimated_orientation": [
+      -0.24932800906641672,
+      -0.7860368481245107,
+      -0.4629976288363735
+    ],
+    "quality_score": 0.9910535401556999,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9831077369411269,
+      "orientation_stability": 0.9937522991484778,
+      "gyro_quality": 0.9536914789520284
+    }
+  },
+  {
+    "timestamp": 19.866220735785955,
+    "vehicle_acceleration": [
+      9.547946746010005,
+      -2.9235695292747823,
+      -9.632733026328237
+    ],
+    "estimated_orientation": [
+      -0.25622656781755565,
+      -0.787633076681447,
+      -0.4628959611155382
+    ],
+    "quality_score": 0.9891407818259379,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9682314891945349,
+      "orientation_stability": 0.9944876534669512,
+      "gyro_quality": 0.9632133596698826
+    }
+  },
+  {
+    "timestamp": 19.96655518394649,
+    "vehicle_acceleration": [
+      9.486361178952976,
+      -2.9371623008110714,
+      -9.885839680980524
+    ],
+    "estimated_orientation": [
+      -0.2609751730829675,
+      -0.7954249348016855,
+      -0.46255004020277724
+    ],
+    "quality_score": 0.9908233375154957,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9719246992491695,
+      "orientation_stability": 0.9949189537828151,
+      "gyro_quality": 0.9720055459823953
+    }
+  },
+  {
+    "timestamp": 20.066889632107024,
+    "vehicle_acceleration": [
+      9.530849669482173,
+      -3.1335265730461517,
+      -9.548785735743424
+    ],
+    "estimated_orientation": [
+      -0.2668169619176655,
+      -0.7893284292309557,
+      -0.462031206945362
+    ],
+    "quality_score": 0.9778607920574747,
+    "confidence_metrics": {
+      "gps_quality": 0.9579072307340017,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9633100337509412,
+      "orientation_stability": 0.9918693190926691,
+      "gyro_quality": 0.9904621822318547
+    }
+  },
+  {
+    "timestamp": 20.16722408026756,
+    "vehicle_acceleration": [
+      9.42689033974152,
+      -3.0958124746693056,
+      -9.98532185035668
+    ],
+    "estimated_orientation": [
+      -0.27143777172006706,
+      -0.7978535649120059,
+      -0.46139523496131263
+    ],
+    "quality_score": 0.9869713343768094,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9716297883570302,
+      "orientation_stability": 0.9948374052798795,
+      "gyro_quality": 0.9341976591342136
+    }
+  },
+  {
+    "timestamp": 20.267558528428093,
+    "vehicle_acceleration": [
+      9.425703909249416,
+      -3.0827756140163993,
+      -10.095071421614662
+    ],
+    "estimated_orientation": [
+      -0.27246294693625406,
+      -0.8060214175324284,
+      -0.4606853804750581
+    ],
+    "quality_score": 0.9883087309647579,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9689991856227508,
+      "orientation_stability": 0.9951003334455176,
+      "gyro_quality": 0.9524384382338006
+    }
+  },
+  {
+    "timestamp": 20.367892976588628,
+    "vehicle_acceleration": [
+      9.355440878186501,
+      -3.225098294830207,
+      -10.07306807535902
+    ],
+    "estimated_orientation": [
+      -0.27607349964956496,
+      -0.8093152427719832,
+      -0.4599348652452029
+    ],
+    "quality_score": 0.9924874867857401,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9817038493338114,
+      "orientation_stability": 0.9963901611899194,
+      "gyro_quality": 0.9668819274048983
+    }
+  },
+  {
+    "timestamp": 20.468227424749163,
+    "vehicle_acceleration": [
+      9.392599723356284,
+      -3.389310039646859,
+      -10.323601811670532
+    ],
+    "estimated_orientation": [
+      -0.28426019766390653,
+      -0.8163234763489501,
+      -0.4591688949577658
+    ],
+    "quality_score": 0.985715332216152,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9607818233826428,
+      "orientation_stability": 0.9951245241448745,
+      "gyro_quality": 0.9429028891789225
+    }
+  },
+  {
+    "timestamp": 20.5685618729097,
+    "vehicle_acceleration": [
+      9.479363159648438,
+      -3.1857503433478764,
+      -10.031894292773558
+    ],
+    "estimated_orientation": [
+      -0.27883956286486655,
+      -0.8141824219025118,
+      -0.45840629728237786
+    ],
+    "quality_score": 0.985771359133655,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9543273279224902,
+      "orientation_stability": 0.9921620644949894,
+      "gyro_quality": 0.9608158387490852
+    }
+  },
+  {
+    "timestamp": 20.668896321070235,
+    "vehicle_acceleration": [
+      9.450804333498212,
+      -3.464446645752511,
+      -10.13753231313154
+    ],
+    "estimated_orientation": [
+      -0.28602766975381244,
+      -0.8130453774726867,
+      -0.4576608488069645
+    ],
+    "quality_score": 0.9874408092317883,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9521092767100814,
+      "orientation_stability": 0.9949241487913735,
+      "gyro_quality": 0.9778033157106597
+    }
+  },
+  {
+    "timestamp": 20.76923076923077,
+    "vehicle_acceleration": [
+      9.238773653422848,
+      -3.5783071591547055,
+      -10.4075999432781
+    ],
+    "estimated_orientation": [
+      -0.29484235994860414,
+      -0.8193989229178723,
+      -0.45694234772073905
+    ],
+    "quality_score": 0.9897943675328944,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9773392389235663,
+      "orientation_stability": 0.9952690968778799,
+      "gyro_quality": 0.9503615521649915
+    }
+  },
+  {
+    "timestamp": 20.869565217391305,
+    "vehicle_acceleration": [
+      9.282409893085845,
+      -3.8268468631561325,
+      -10.366085686470024
+    ],
+    "estimated_orientation": [
+      -0.3061445796379728,
+      -0.8196819577742851,
+      -0.4562574789452087
+    ],
+    "quality_score": 0.9847555616087841,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9574040032236002,
+      "orientation_stability": 0.9941655217967728,
+      "gyro_quality": 0.9414993269454804
+    }
+  },
+  {
+    "timestamp": 20.96989966555184,
+    "vehicle_acceleration": [
+      9.088963902916866,
+      -3.72407776917825,
+      -10.428429610959483
+    ],
+    "estimated_orientation": [
+      -0.3083867643068456,
+      -0.8235182717546805,
+      -0.4556105100378249
+    ],
+    "quality_score": 0.993803975153451,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9903507482674779,
+      "orientation_stability": 0.9974387844325204,
+      "gyro_quality": 0.9611800783507731
+    }
+  },
+  {
+    "timestamp": 21.070234113712374,
+    "vehicle_acceleration": [
+      9.25898909044981,
+      -3.8738978507226616,
+      -10.296818049433396
+    ],
+    "estimated_orientation": [
+      -0.3129388916413514,
+      -0.8200006628193155,
+      -0.4550038492986052
+    ],
+    "quality_score": 0.9881927394835873,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.955277467804509,
+      "orientation_stability": 0.9950725982342509,
+      "gyro_quality": 0.9787635618754784
+    }
+  },
+  {
+    "timestamp": 21.17056856187291,
+    "vehicle_acceleration": [
+      9.076035179088054,
+      -3.8331784041160333,
+      -10.261283619899539
+    ],
+    "estimated_orientation": [
+      -0.31395649939604947,
+      -0.8179500582168553,
+      -0.45443849183698204
+    ],
+    "quality_score": 0.9922766728631572,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9904055783392984,
+      "orientation_stability": 0.9957887097207574,
+      "gyro_quality": 0.9482725073718392
+    }
+  },
+  {
+    "timestamp": 21.270903010033447,
+    "vehicle_acceleration": [
+      8.978549427297533,
+      -3.9299700785568676,
+      -10.373767053609473
+    ],
+    "estimated_orientation": [
+      -0.3186436359299137,
+      -0.8190436164336677,
+      -0.45391437469000206
+    ],
+    "quality_score": 0.994522024410779,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9991827506695735,
+      "orientation_stability": 0.9980584112042956,
+      "gyro_quality": 0.9497671259621983
+    }
+  },
+  {
+    "timestamp": 21.37123745819398,
+    "vehicle_acceleration": [
+      9.067348704452277,
+      -3.7657247749145664,
+      -10.30422150019933
+    ],
+    "estimated_orientation": [
+      -0.3145878580773861,
+      -0.819042582767271,
+      -0.4534306582468991
+    ],
+    "quality_score": 0.9898119597210255,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9895101977462648,
+      "orientation_stability": 0.9943951931173409,
+      "gyro_quality": 0.9275064120417134
+    }
+  },
+  {
+    "timestamp": 21.471571906354516,
+    "vehicle_acceleration": [
+      9.358743712825401,
+      -3.8726109016699963,
+      -10.026387810090007
+    ],
+    "estimated_orientation": [
+      -0.3200574302424621,
+      -0.8120318489555783,
+      -0.5005288092325388
+    ],
+    "quality_score": 0.9790303412877842,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9417719688480801,
+      "orientation_stability": 0.9588692054927672,
+      "gyro_quality": 0.9684556669425307
+    }
+  },
+  {
+    "timestamp": 21.57190635451505,
+    "vehicle_acceleration": [
+      9.309212859861098,
+      -3.5788666490957715,
+      -10.153972905989622
+    ],
+    "estimated_orientation": [
+      -0.3135848247961388,
+      -0.8134676107209066,
+      -0.49006915148643987
+    ],
+    "quality_score": 0.9820767963386963,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.950968862038647,
+      "orientation_stability": 0.9853772961613149,
+      "gyro_quality": 0.9407642950676967
+    }
+  },
+  {
+    "timestamp": 21.672240802675585,
+    "vehicle_acceleration": [
+      9.276700626696778,
+      -3.7090839434530123,
+      -10.302860215277423
+    ],
+    "estimated_orientation": [
+      -0.32020213516795976,
+      -0.819689048448652,
+      -0.5291285288508965
+    ],
+    "quality_score": 0.981814265910586,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9544023264428038,
+      "orientation_stability": 0.9681879157654653,
+      "gyro_quality": 0.9570561325720538
+    }
+  },
+  {
+    "timestamp": 21.77257525083612,
+    "vehicle_acceleration": [
+      9.124864660374358,
+      -3.7216298413041993,
+      -10.14506905695315
+    ],
+    "estimated_orientation": [
+      -0.32517218952970645,
+      -0.8225744451198629,
+      -0.5597517372410313
+    ],
+    "quality_score": 0.9898923975121878,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.98928624726848,
+      "orientation_stability": 0.9781311770081377,
+      "gyro_quality": 0.9531547150727121
+    }
+  },
+  {
+    "timestamp": 21.872909698996658,
+    "vehicle_acceleration": [
+      9.190605238103487,
+      -4.0060431159089305,
+      -10.14524803823159
+    ],
+    "estimated_orientation": [
+      -0.340145142497491,
+      -0.8230023209117251,
+      -0.5835838740052651
+    ],
+    "quality_score": 0.9862540504026475,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9655060746821299,
+      "orientation_stability": 0.9838575256712995,
+      "gyro_quality": 0.9557420661552648
+    }
+  },
+  {
+    "timestamp": 21.973244147157192,
+    "vehicle_acceleration": [
+      9.225144773550646,
+      -4.047557839191374,
+      -9.963536094563441
+    ],
+    "estimated_orientation": [
+      -0.35015203544446444,
+      -0.8194521515232759,
+      -0.6019649960113193
+    ],
+    "quality_score": 0.9854859241215547,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9539019308411743,
+      "orientation_stability": 0.9901737941544534,
+      "gyro_quality": 0.9617946883015169
+    }
+  },
+  {
+    "timestamp": 22.073578595317727,
+    "vehicle_acceleration": [
+      9.16855670723758,
+      -3.9501215694459013,
+      -10.126435980114477
+    ],
+    "estimated_orientation": [
+      -0.35543806465684036,
+      -0.824450735178545,
+      -0.615985126581791
+    ],
+    "quality_score": 0.9796323931316046,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9519893580177143,
+      "orientation_stability": 0.9954351264455137,
+      "gyro_quality": 0.8991925256123466
+    }
+  },
+  {
+    "timestamp": 22.17391304347826,
+    "vehicle_acceleration": [
+      8.954567691778541,
+      -4.086182333792916,
+      -9.852431789900969
+    ],
+    "estimated_orientation": [
+      -0.36028439556006236,
+      -0.8211015639968701,
+      -0.6265295045211532
+    ],
+    "quality_score": 0.9944743829919113,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9985710840025686,
+      "orientation_stability": 0.99670421915408,
+      "gyro_quality": 0.9525453331828552
+    }
+  },
+  {
+    "timestamp": 22.274247491638796,
+    "vehicle_acceleration": [
+      9.198444996543195,
+      -3.846169562883998,
+      -10.028891822459048
+    ],
+    "estimated_orientation": [
+      -0.3583599861506827,
+      -0.8255001206256686,
+      -0.6343157890222123
+    ],
+    "quality_score": 0.9842294437622348,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9459461642268007,
+      "orientation_stability": 0.9949626311618018,
+      "gyro_quality": 0.957958162426042
+    }
+  },
+  {
+    "timestamp": 22.37458193979933,
+    "vehicle_acceleration": [
+      9.163042618692641,
+      -3.8497177091415207,
+      -9.768377866644748
+    ],
+    "estimated_orientation": [
+      -0.35521509199738216,
+      -0.8217456734394534,
+      -0.6399246351123292
+    ],
+    "quality_score": 0.988368624486631,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.96818591383145,
+      "orientation_stability": 0.9931380361089168,
+      "gyro_quality": 0.9576073630400337
+    }
+  },
+  {
+    "timestamp": 22.474916387959865,
+    "vehicle_acceleration": [
+      9.199945757942524,
+      -3.8435461973839167,
+      -9.754435958950792
+    ],
+    "estimated_orientation": [
+      -0.35459153370849694,
+      -0.8188202903134667,
+      -0.6438248071779038
+    ],
+    "quality_score": 0.9864608557696459,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9625954466988993,
+      "orientation_stability": 0.9938026259342071,
+      "gyro_quality": 0.9487137253973493
+    }
+  },
+  {
+    "timestamp": 22.575250836120404,
+    "vehicle_acceleration": [
+      9.348843986562313,
+      -3.976621193074462,
+      -9.77606329987916
+    ],
+    "estimated_orientation": [
+      -0.3603834018811586,
+      -0.815134985657949,
+      -0.646393793970599
+    ],
+    "quality_score": 0.9826648100568214,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9273402617479377,
+      "orientation_stability": 0.993358082328135,
+      "gyro_quality": 0.9819304535801358
+    }
+  },
+  {
+    "timestamp": 22.67558528428094,
+    "vehicle_acceleration": [
+      9.11291195514144,
+      -3.7294709056514215,
+      -9.78986779404801
+    ],
+    "estimated_orientation": [
+      -0.35473146258843463,
+      -0.8176549789298766,
+      -0.6479347198930235
+    ],
+    "quality_score": 0.9875064492769589,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9745716543988191,
+      "orientation_stability": 0.9913549440176661,
+      "gyro_quality": 0.9388887679454507
+    }
+  },
+  {
+    "timestamp": 22.775919732441473,
+    "vehicle_acceleration": [
+      9.14773762294706,
+      -3.9422274330548177,
+      -9.681844230672993
+    ],
+    "estimated_orientation": [
+      -0.35802776093437216,
+      -0.8135662938009888,
+      -0.6486902081191707
+    ],
+    "quality_score": 0.991503100543676,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9726549272777507,
+      "orientation_stability": 0.9928353774847939,
+      "gyro_quality": 0.9804680846540673
+    }
+  },
+  {
+    "timestamp": 22.876254180602007,
+    "vehicle_acceleration": [
+      9.047285695643946,
+      -4.077368265739045,
+      -9.46129296007108
+    ],
+    "estimated_orientation": [
+      -0.3628175090302147,
+      -0.8036850109288395,
+      -0.648853736127939
+    ],
+    "quality_score": 0.9930332122960952,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9927042414792246,
+      "orientation_stability": 0.9906904378337739,
+      "gyro_quality": 0.9588879832518418
+    }
+  },
+  {
+    "timestamp": 22.976588628762542,
+    "vehicle_acceleration": [
+      9.179984819420525,
+      -3.914986618764342,
+      -9.778112118567778
+    ],
+    "estimated_orientation": [
+      -0.3645905539022389,
+      -0.8071639591833312,
+      -0.6485789293020231
+    ],
+    "quality_score": 0.8856114518591541,
+    "confidence_metrics": {
+      "gps_quality": 0.6631407404166788,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9496441690544664,
+      "orientation_stability": 0.9930175506038832,
+      "gyro_quality": 0.9778776333267469
+    }
+  },
+  {
+    "timestamp": 23.076923076923077,
+    "vehicle_acceleration": [
+      9.055735679585453,
+      -3.926761485440319,
+      -9.664191068531755
+    ],
+    "estimated_orientation": [
+      -0.3635734055889123,
+      -0.8070327456173891,
+      -0.6479871598852127
+    ],
+    "quality_score": 0.9869304643360843,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9795327257244658,
+      "orientation_stability": 0.9932670917950924,
+      "gyro_quality": 0.9203385542192734
+    }
+  },
+  {
+    "timestamp": 23.17725752508361,
+    "vehicle_acceleration": [
+      9.13332922999512,
+      -4.084952620974114,
+      -9.422888473065788
+    ],
+    "estimated_orientation": [
+      -0.3665719021968329,
+      -0.7976637891235029,
+      -0.6471737539186183
+    ],
+    "quality_score": 0.9848232562925354,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9687648087903948,
+      "orientation_stability": 0.9915991491567302,
+      "gyro_quality": 0.9233042216094685
+    }
+  },
+  {
+    "timestamp": 23.27759197324415,
+    "vehicle_acceleration": [
+      9.0927186587382,
+      -4.232025021977681,
+      -9.723179545289282
+    ],
+    "estimated_orientation": [
+      -0.37694543528280966,
+      -0.7982752949243144,
+      -0.6462130554099073
+    ],
+    "quality_score": 0.9846489496890635,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9543778024264707,
+      "orientation_stability": 0.9923592666419802,
+      "gyro_quality": 0.9491949920747222
+    }
+  },
+  {
+    "timestamp": 23.377926421404684,
+    "vehicle_acceleration": [
+      9.143069954624114,
+      -3.9904489492251014,
+      -9.37511270670361
+    ],
+    "estimated_orientation": [
+      -0.3710716687911971,
+      -0.7918662288788592,
+      -0.6451625529616397
+    ],
+    "quality_score": 0.987330537752457,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9557640341584588,
+      "orientation_stability": 0.9913168702071607,
+      "gyro_quality": 0.9748020038969111
+    }
+  },
+  {
+    "timestamp": 23.47826086956522,
+    "vehicle_acceleration": [
+      9.169466263792051,
+      -4.10764546219566,
+      -9.345479809588596
+    ],
+    "estimated_orientation": [
+      -0.3726449340318564,
+      -0.7849098558409111,
+      -0.6440662377690641
+    ],
+    "quality_score": 0.9854890751536749,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9498235104612274,
+      "orientation_stability": 0.9937651802789049,
+      "gyro_quality": 0.9645959601959365
+    }
+  },
+  {
+    "timestamp": 23.578595317725753,
+    "vehicle_acceleration": [
+      8.88046677593809,
+      -4.190693981325583,
+      -9.327518975757684
+    ],
+    "estimated_orientation": [
+      -0.3761126073159746,
+      -0.7801779531512035,
+      -0.6429573319503638
+    ],
+    "quality_score": 0.9939323500044208,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9980409418301204,
+      "orientation_stability": 0.9949035923766602,
+      "gyro_quality": 0.9508862278189765
+    }
+  },
+  {
+    "timestamp": 23.678929765886288,
+    "vehicle_acceleration": [
+      8.876932414281956,
+      -4.429727905071004,
+      -9.338226213861818
+    ],
+    "estimated_orientation": [
+      -0.38653627852765315,
+      -0.7742756067598379,
+      -0.6418605014829002
+    ],
+    "quality_score": 0.9891898336007603,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9887022967031175,
+      "orientation_stability": 0.9928639927664871,
+      "gyro_quality": 0.925197753451636
+    }
+  },
+  {
+    "timestamp": 23.779264214046822,
+    "vehicle_acceleration": [
+      9.04257911322164,
+      -4.252857397584285,
+      -9.334447374449152
+    ],
+    "estimated_orientation": [
+      -0.3872789769309702,
+      -0.7721156349605176,
+      -0.6407936476699075
+    ],
+    "quality_score": 0.9832924460586857,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9501847042408968,
+      "orientation_stability": 0.995748163260505,
+      "gyro_quality": 0.9389328072143052
+    }
+  },
+  {
+    "timestamp": 23.879598662207357,
+    "vehicle_acceleration": [
+      8.912105989025111,
+      -4.275131739487691,
+      -8.941172584519355
+    ],
+    "estimated_orientation": [
+      -0.3845601071336954,
+      -0.7598192735196831,
+      -0.639769354295352
+    ],
+    "quality_score": 0.8385518873435094,
+    "confidence_metrics": {
+      "gps_quality": 0.48520478186462807,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9844923445624719,
+      "orientation_stability": 0.9917537155094981,
+      "gyro_quality": 0.9732892654520185
+    }
+  },
+  {
+    "timestamp": 23.979933110367895,
+    "vehicle_acceleration": [
+      8.855515878913105,
+      -4.261936265419554,
+      -9.264979536757918
+    ],
+    "estimated_orientation": [
+      -0.38754201424231866,
+      -0.7610523867985617,
+      -0.6387960538140753
+    ],
+    "quality_score": 0.9928135194084535,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9847721045638025,
+      "orientation_stability": 0.9956807016198074,
+      "gyro_quality": 0.9650699325272183
+    }
+  },
+  {
+    "timestamp": 24.08026755852843,
+    "vehicle_acceleration": [
+      8.775428056035377,
+      -4.148968666472337,
+      -8.987784645836378
+    ],
+    "estimated_orientation": [
+      -0.3820542590728122,
+      -0.7559339244820397,
+      -0.6378789645526842
+    ],
+    "quality_score": 0.9945224172615806,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.989627430621908,
+      "orientation_stability": 0.9938298892527332,
+      "gyro_quality": 0.97522447749289
+    }
+  },
+  {
+    "timestamp": 24.180602006688964,
+    "vehicle_acceleration": [
+      8.807015731191479,
+      -4.176079554607196,
+      -9.134826232032461
+    ],
+    "estimated_orientation": [
+      -0.38225468282666275,
+      -0.7560623105746259,
+      -0.6370208415367498
+    ],
+    "quality_score": 0.9930187793969815,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.998284544634723,
+      "orientation_stability": 0.9964546130559699,
+      "gyro_quality": 0.9389367851164131
+    }
+  },
+  {
+    "timestamp": 24.2809364548495,
+    "vehicle_acceleration": [
+      8.925176934560039,
+      -4.149189163002243,
+      -8.93297449188594
+    ],
+    "estimated_orientation": [
+      -0.3797136089198753,
+      -0.7503510311238429,
+      -0.636222575859034
+    ],
+    "quality_score": 0.9886983920295429,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9830702696704137,
+      "orientation_stability": 0.9957784349814349,
+      "gyro_quality": 0.9271757284824492
+    }
+  },
+  {
+    "timestamp": 24.381270903010034,
+    "vehicle_acceleration": [
+      9.11995645533882,
+      -4.358843718039037,
+      -8.96821173447215
+    ],
+    "estimated_orientation": [
+      -0.3866666192691667,
+      -0.7440561558870127,
+      -0.6354836711704119
+    ],
+    "quality_score": 0.9781499702605738,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9346645485104119,
+      "orientation_stability": 0.9952535393128811,
+      "gyro_quality": 0.9192902966155907
+    }
+  },
+  {
+    "timestamp": 24.48160535117057,
+    "vehicle_acceleration": [
+      8.690584538601401,
+      -4.1923658602144425,
+      -8.98709083349682
+    ],
+    "estimated_orientation": [
+      -0.3850314450874804,
+      -0.7444078779524602,
+      -0.6348026206695035
+    ],
+    "quality_score": 0.9920314186815568,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9809169386537124,
+      "orientation_stability": 0.9962161269059544,
+      "gyro_quality": 0.9641561191492096
+    }
+  },
+  {
+    "timestamp": 24.581939799331103,
+    "vehicle_acceleration": [
+      8.964398662761807,
+      -4.258974103379156,
+      -9.035774843154323
+    ],
+    "estimated_orientation": [
+      -0.38724537419131433,
+      -0.7442116808879048,
+      -0.6341772036903349
+    ],
+    "quality_score": 0.9827152201821727,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9615851374549791,
+      "orientation_stability": 0.9974331480175685,
+      "gyro_quality": 0.9078322048854157
+    }
+  },
+  {
+    "timestamp": 24.68227424749164,
+    "vehicle_acceleration": [
+      9.005015462233427,
+      -4.263431381512579,
+      -8.950650414806171
+    ],
+    "estimated_orientation": [
+      -0.38766154366469957,
+      -0.7417010173282227,
+      -0.6336047174758596
+    ],
+    "quality_score": 0.9855821927395569,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9532237202130596,
+      "orientation_stability": 0.9981417866130079,
+      "gyro_quality": 0.952161807049938
+    }
+  },
+  {
+    "timestamp": 24.782608695652176,
+    "vehicle_acceleration": [
+      8.701528434481215,
+      -4.400049793678729,
+      -8.64958163941705
+    ],
+    "estimated_orientation": [
+      -0.38891873713374575,
+      -0.7304660745481666,
+      -0.6330821568437891
+    ],
+    "quality_score": 0.9928185019709435,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9869372160940657,
+      "orientation_stability": 0.9942909776663936,
+      "gyro_quality": 0.9628741210217118
+    }
+  },
+  {
+    "timestamp": 24.88294314381271,
+    "vehicle_acceleration": [
+      8.935583433249214,
+      -4.193419306041927,
+      -8.655614491191029
+    ],
+    "estimated_orientation": [
+      -0.385425089173966,
+      -0.7255360916258068,
+      -0.6326063520884578
+    ],
+    "quality_score": 0.987781769042276,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9666117216717091,
+      "orientation_stability": 0.9963604185668709,
+      "gyro_quality": 0.9500536192290356
+    }
+  },
+  {
+    "timestamp": 24.983277591973245,
+    "vehicle_acceleration": [
+      8.87498368907694,
+      -4.482664906508926,
+      -8.665348179673504
+    ],
+    "estimated_orientation": [
+      -0.39329465774175854,
+      -0.7185626660955782,
+      -0.6321740735264723
+    ],
+    "quality_score": 0.9867820742521617,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.968119992374794,
+      "orientation_stability": 0.9949710155555244,
+      "gyro_quality": 0.9391242344387417
+    }
+  },
+  {
+    "timestamp": 25.08361204013378,
+    "vehicle_acceleration": [
+      8.853085887830847,
+      -4.396700797668376,
+      -8.68459333152725
+    ],
+    "estimated_orientation": [
+      -0.3959448578652592,
+      -0.7161723018003134,
+      -0.6317821095089001
+    ],
+    "quality_score": 0.9854578829800452,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9662622635020994,
+      "orientation_stability": 0.9984651305755788,
+      "gyro_quality": 0.9243566069328842
+    }
+  },
+  {
+    "timestamp": 25.183946488294314,
+    "vehicle_acceleration": [
+      8.860093029156989,
+      -4.308399209906805,
+      -8.387869911755347
+    ],
+    "estimated_orientation": [
+      -0.39185075134462594,
+      -0.7077457598853063,
+      -0.6314273234262706
+    ],
+    "quality_score": 0.9886826164363839,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9678654904753241,
+      "orientation_stability": 0.9950586323188635,
+      "gyro_quality": 0.9585072349348948
+    }
+  },
+  {
+    "timestamp": 25.28428093645485,
+    "vehicle_acceleration": [
+      8.562906557945835,
+      -4.510943325613359,
+      -8.48810264654538
+    ],
+    "estimated_orientation": [
+      -0.3978254874537887,
+      -0.7022121866995517,
+      -0.631106694173218
+    ],
+    "quality_score": 0.9928018854534535,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.981810697303293,
+      "orientation_stability": 0.9967091901722431,
+      "gyro_quality": 0.9693336746695841
+    }
+  },
+  {
+    "timestamp": 25.384615384615387,
+    "vehicle_acceleration": [
+      8.729442840008021,
+      -4.440776375305609,
+      -8.343696256508172
+    ],
+    "estimated_orientation": [
+      -0.39826905422598324,
+      -0.6957392353921082,
+      -0.6308173436748142
+    ],
+    "quality_score": 0.9926373704320449,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9810981117153261,
+      "orientation_stability": 0.9981276306487141,
+      "gyro_quality": 0.9669860349167251
+    }
+  },
+  {
+    "timestamp": 25.48494983277592,
+    "vehicle_acceleration": [
+      8.905401201796847,
+      -4.241399163328581,
+      -8.144524634099824
+    ],
+    "estimated_orientation": [
+      -0.3916633458590496,
+      -0.6887939043405747,
+      -0.6305565543715813
+    ],
+    "quality_score": 0.9841889596311305,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.950195590902873,
+      "orientation_stability": 0.9944579405078,
+      "gyro_quality": 0.9498115037438585
+    }
+  },
+  {
+    "timestamp": 25.585284280936456,
+    "vehicle_acceleration": [
+      8.63719167380511,
+      -4.315390691785598,
+      -8.195333552950716
+    ],
+    "estimated_orientation": [
+      -0.3914612605734951,
+      -0.6843403764145355,
+      -0.630321778986112
+    ],
+    "quality_score": 0.993984540462916,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9966044242824363,
+      "orientation_stability": 0.9990417665271856,
+      "gyro_quality": 0.948073906273508
+    }
+  },
+  {
+    "timestamp": 25.68561872909699,
+    "vehicle_acceleration": [
+      8.511078257588196,
+      -4.314754329666515,
+      -7.934745878943555
+    ],
+    "estimated_orientation": [
+      -0.38895083167777206,
+      -0.6740369886309939,
+      -0.6301106444275145
+    ],
+    "quality_score": 0.9917221452965463,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9741034192084765,
+      "orientation_stability": 0.9956731610787533,
+      "gyro_quality": 0.9755048729303801
+    }
+  },
+  {
+    "timestamp": 25.785953177257525,
+    "vehicle_acceleration": [
+      8.64664275047608,
+      -4.22512053592432,
+      -8.04380623246354
+    ],
+    "estimated_orientation": [
+      -0.387939036653458,
+      -0.6716817768223753,
+      -0.6299209513110763
+    ],
+    "quality_score": 0.9968094009961246,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9995811278285011,
+      "orientation_stability": 0.9979843615708155,
+      "gyro_quality": 0.9719552119480206
+    }
+  },
+  {
+    "timestamp": 25.88628762541806,
+    "vehicle_acceleration": [
+      8.793517314466465,
+      -4.187573820826305,
+      -8.030379293181332
+    ],
+    "estimated_orientation": [
+      -0.3867341881273626,
+      -0.670520596338407,
+      -0.6297506702636234
+    ],
+    "quality_score": 0.9928603177148151,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9710076204898904,
+      "orientation_stability": 0.9974261826461966,
+      "gyro_quality": 0.990448662199075
+    }
+  },
+  {
+    "timestamp": 25.986622073578594,
+    "vehicle_acceleration": [
+      8.62317684958358,
+      -4.189674751996165,
+      -7.701255998769135
+    ],
+    "estimated_orientation": [
+      -0.382424040342713,
+      -0.6604806247965399,
+      -0.6295979359369066
+    ],
+    "quality_score": 0.9952891495043483,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9973210378737392,
+      "orientation_stability": 0.9953433118691368,
+      "gyro_quality": 0.9652344514922994
+    }
+  },
+  {
+    "timestamp": 26.086956521739133,
+    "vehicle_acceleration": [
+      8.691094363013471,
+      -3.908680911301106,
+      -7.6671698136015385
+    ],
+    "estimated_orientation": [
+      -0.3730713187017488,
+      -0.6568334009181682,
+      -0.6294610394511665
+    ],
+    "quality_score": 0.9960107617986965,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9970171501153249,
+      "orientation_stability": 0.9939702113101186,
+      "gyro_quality": 0.9751180007911375
+    }
+  },
+  {
+    "timestamp": 26.187290969899667,
+    "vehicle_acceleration": [
+      8.740094915386077,
+      -4.1112003870221585,
+      -7.625839709560086
+    ],
+    "estimated_orientation": [
+      -0.37445306552062424,
+      -0.6502349169083059,
+      -0.6293384198299804
+    ],
+    "quality_score": 0.9915536277961493,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9842616818550827,
+      "orientation_stability": 0.9981740214286945,
+      "gyro_quality": 0.9497518821082861
+    }
+  },
+  {
+    "timestamp": 26.287625418060202,
+    "vehicle_acceleration": [
+      8.708856984248785,
+      -4.195682440083897,
+      -7.500378882667516
+    ],
+    "estimated_orientation": [
+      -0.3772513532763482,
+      -0.6414398701020002,
+      -0.6292286548582976
+    ],
+    "quality_score": 0.9914307910963841,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9807806452869017,
+      "orientation_stability": 0.9966941965187655,
+      "gyro_quality": 0.9577053256118897
+    }
+  },
+  {
+    "timestamp": 26.387959866220736,
+    "vehicle_acceleration": [
+      8.45276648467423,
+      -4.086602267691463,
+      -7.370640502192077
+    ],
+    "estimated_orientation": [
+      -0.3748129105524589,
+      -0.6332465434279292,
+      -0.6291304516922821
+    ],
+    "quality_score": 0.9924334156514735,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9726436921949627,
+      "orientation_stability": 0.9976687106949529,
+      "gyro_quality": 0.9825437060823797
+    }
+  },
+  {
+    "timestamp": 26.48829431438127,
+    "vehicle_acceleration": [
+      8.643894814355376,
+      -4.089927076656039,
+      -7.3708591564117185
+    ],
+    "estimated_orientation": [
+      -0.3753537593535349,
+      -0.6284722013884898,
+      -0.6290426374673275
+    ],
+    "quality_score": 0.9932346833223951,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.986675605038322,
+      "orientation_stability": 0.9991590044745808,
+      "gyro_quality": 0.9602571164354355
+    }
+  },
+  {
+    "timestamp": 26.588628762541806,
+    "vehicle_acceleration": [
+      8.85383435614476,
+      -4.083888704102495,
+      -7.407083991410003
+    ],
+    "estimated_orientation": [
+      -0.3770660783104811,
+      -0.62729218139275,
+      -0.6289641500853975
+    ],
+    "quality_score": 0.9844937623116722,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9430347275080511,
+      "orientation_stability": 0.9969469894658427,
+      "gyro_quality": 0.9634476839018553
+    }
+  },
+  {
+    "timestamp": 26.68896321070234,
+    "vehicle_acceleration": [
+      8.533504901206593,
+      -4.212960521289943,
+      -7.273343282534332
+    ],
+    "estimated_orientation": [
+      -0.3795986118588239,
+      -0.6203613229991554,
+      -0.6288940293114214
+    ],
+    "quality_score": 0.9947974233518768,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9971173710392044,
+      "orientation_stability": 0.9978510381682002,
+      "gyro_quality": 0.9569629341880583
+    }
+  },
+  {
+    "timestamp": 26.78929765886288,
+    "vehicle_acceleration": [
+      8.420353169903313,
+      -4.098540686804553,
+      -6.964804762669174
+    ],
+    "estimated_orientation": [
+      -0.3749440549426976,
+      -0.6089421813137442,
+      -0.6288314082681689
+    ],
+    "quality_score": 0.9879425120089391,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9899846895006046,
+      "orientation_stability": 0.9950511333057044,
+      "gyro_quality": 0.906879041129625
+    }
+  },
+  {
+    "timestamp": 26.889632107023413,
+    "vehicle_acceleration": [
+      8.574633996129789,
+      -4.0378755597764915,
+      -7.194145605943283
+    ],
+    "estimated_orientation": [
+      -0.37534662345493863,
+      -0.6091344127828908,
+      -0.6287755053876862
+    ],
+    "quality_score": 0.993968818492007,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9864416742323332,
+      "orientation_stability": 0.9961725688184102,
+      "gyro_quality": 0.9725459832277886
+    }
+  },
+  {
+    "timestamp": 26.989966555183948,
+    "vehicle_acceleration": [
+      8.596451696740568,
+      -4.25703154387131,
+      -7.0501488271619195
+    ],
+    "estimated_orientation": [
+      -0.3801532749251357,
+      -0.6025569554555364,
+      -0.6287256168532055
+    ],
+    "quality_score": 0.9875976095565783,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9688231787933095,
+      "orientation_stability": 0.9965936834411008,
+      "gyro_quality": 0.943439212817513
+    }
+  },
+  {
+    "timestamp": 27.090301003344482,
+    "vehicle_acceleration": [
+      8.502028094523288,
+      -4.0407567043950525,
+      -6.893066652991613
+    ],
+    "estimated_orientation": [
+      -0.3755256333014139,
+      -0.5973262384373497,
+      -0.6286811095470243
+    ],
+    "quality_score": 0.9935976196595453,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9848841615512072,
+      "orientation_stability": 0.9969880970775038,
+      "gyro_quality": 0.9707257278767822
+    }
+  },
+  {
+    "timestamp": 27.190635451505017,
+    "vehicle_acceleration": [
+      8.4834510000751,
+      -4.134177695262131,
+      -6.661943054836123
+    ],
+    "estimated_orientation": [
+      -0.37379005631565076,
+      -0.5862436537927271,
+      -0.6286414145060191
+    ],
+    "quality_score": 0.9916672726980027,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.976571126256075,
+      "orientation_stability": 0.9962109296372166,
+      "gyro_quality": 0.9692140800120517
+    }
+  },
+  {
+    "timestamp": 27.29096989966555,
+    "vehicle_acceleration": [
+      8.535767170140812,
+      -4.106845374502611,
+      -6.867797067075314
+    ],
+    "estimated_orientation": [
+      -0.37615089043290023,
+      -0.5852147810647671,
+      -0.6286060208762446
+    ],
+    "quality_score": 0.989583500705991,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9710491739169026,
+      "orientation_stability": 0.9964614692329116,
+      "gyro_quality": 0.9590444553767372
+    }
+  },
+  {
+    "timestamp": 27.391304347826086,
+    "vehicle_acceleration": [
+      8.546696704175034,
+      -4.133084551892196,
+      -6.582065513125738
+    ],
+    "estimated_orientation": [
+      -0.38159835833354694,
+      -0.577392851382364,
+      -0.6761173315003162
+    ],
+    "quality_score": 0.9791503561865411,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9607542075144131,
+      "orientation_stability": 0.9578881319577955,
+      "gyro_quality": 0.9331629488998905
+    }
+  },
+  {
+    "timestamp": 27.491638795986624,
+    "vehicle_acceleration": [
+      8.461818467709792,
+      -3.893906878454171,
+      -6.438893271151023
+    ],
+    "estimated_orientation": [
+      -0.37565866859670155,
+      -0.5721826175063198,
+      -0.6660370348389975
+    ],
+    "quality_score": 0.9887704495820748,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9714671066747627,
+      "orientation_stability": 0.9873535935473702,
+      "gyro_quality": 0.9637398921501669
+    }
+  },
+  {
+    "timestamp": 27.59197324414716,
+    "vehicle_acceleration": [
+      8.303323915673927,
+      -4.086056602048131,
+      -6.531088024503447
+    ],
+    "estimated_orientation": [
+      -0.38449238503284433,
+      -0.5674760887646547,
+      -0.70544362812645
+    ],
+    "quality_score": 0.9905274449219429,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9940984778141544,
+      "orientation_stability": 0.9668872344133351,
+      "gyro_quality": 0.9667466419711177
+    }
+  },
+  {
+    "timestamp": 27.692307692307693,
+    "vehicle_acceleration": [
+      8.519698843431764,
+      -3.8947811774691554,
+      -6.3685058810109965
+    ],
+    "estimated_orientation": [
+      -0.388049998792747,
+      -0.5652188513912054,
+      -0.7363837411584496
+    ],
+    "quality_score": 0.9825624242892613,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9579962712739729,
+      "orientation_stability": 0.9770742086553158,
+      "gyro_quality": 0.9440203873616929
+    }
+  },
+  {
+    "timestamp": 27.792642140468228,
+    "vehicle_acceleration": [
+      8.288987400870427,
+      -3.912141345932132,
+      -6.2907118703961675
+    ],
+    "estimated_orientation": [
+      -0.3853103385379991,
+      -0.5605752571894987,
+      -0.7129615414261496
+    ],
+    "quality_score": 0.992542234190063,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9934870884739897,
+      "orientation_stability": 0.9729637265427201,
+      "gyro_quality": 0.9790025751385701
+    }
+  },
+  {
+    "timestamp": 27.892976588628763,
+    "vehicle_acceleration": [
+      8.49721077173487,
+      -3.9408766145506844,
+      -6.151544883697336
+    ],
+    "estimated_orientation": [
+      -0.3886545654890986,
+      -0.5545790244619953,
+      -0.7416569522311759
+    ],
+    "quality_score": 0.9830098151163963,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.948134689401509,
+      "orientation_stability": 0.9788458877302563,
+      "gyro_quality": 0.9655599407655604
+    }
+  },
+  {
+    "timestamp": 27.993311036789297,
+    "vehicle_acceleration": [
+      8.499437850862783,
+      -3.7570039689914863,
+      -5.9483389558276345
+    ],
+    "estimated_orientation": [
+      -0.38037675494840567,
+      -0.5486714816535191,
+      -0.7164830848627373
+    ],
+    "quality_score": 0.9705896578028734,
+    "confidence_metrics": {
+      "gps_quality": 0.9736545900810256,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9348488999271801,
+      "orientation_stability": 0.9713534141008867,
+      "gyro_quality": 0.9582048867799668
+    }
+  },
+  {
+    "timestamp": 28.093645484949832,
+    "vehicle_acceleration": [
+      8.330465257656748,
+      -3.8607284907128694,
+      -6.02339476231364
+    ],
+    "estimated_orientation": [
+      -0.3833426463509727,
+      -0.5436817077666584,
+      -0.7438229864660671
+    ],
+    "quality_score": 0.9874046057368255,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9745572059272785,
+      "orientation_stability": 0.9795319068725213,
+      "gyro_quality": 0.9556337852049164
+    }
+  },
+  {
+    "timestamp": 28.19397993311037,
+    "vehicle_acceleration": [
+      8.242887991063778,
+      -3.7669171434900472,
+      -5.953870894145776
+    ],
+    "estimated_orientation": [
+      -0.37812920453786364,
+      -0.5399418656966399,
+      -0.7176109275265532
+    ],
+    "quality_score": 0.9876662131737329,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9830845360196466,
+      "orientation_stability": 0.9713486256667186,
+      "gyro_quality": 0.9534701211979578
+    }
+  },
+  {
+    "timestamp": 28.294314381270905,
+    "vehicle_acceleration": [
+      8.35576780228575,
+      -3.7723526598016965,
+      -5.802271664353749
+    ],
+    "estimated_orientation": [
+      -0.3784410959472871,
+      -0.5339639065287936,
+      -0.7441658899936452
+    ],
+    "quality_score": 0.9822115207196414,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.957558594705748,
+      "orientation_stability": 0.9797230892657052,
+      "gyro_quality": 0.9374133838863601
+    }
+  },
+  {
+    "timestamp": 28.39464882943144,
+    "vehicle_acceleration": [
+      8.308126136194272,
+      -3.607785361004121,
+      -5.669370229193118
+    ],
+    "estimated_orientation": [
+      -0.3761031378475834,
+      -0.529113928937579,
+      -0.7649130352285785
+    ],
+    "quality_score": 0.9862551737995796,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9630896353233662,
+      "orientation_stability": 0.9862643184249201,
+      "gyro_quality": 0.9569759897116822
+    }
+  },
+  {
+    "timestamp": 28.494983277591974,
+    "vehicle_acceleration": [
+      8.352557944494084,
+      -3.8226506297455107,
+      -5.843648480606237
+    ],
+    "estimated_orientation": [
+      -0.3859300575520819,
+      -0.5270817869951004,
+      -0.7809913657353171
+    ],
+    "quality_score": 0.9853688810406434,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.958829358074178,
+      "orientation_stability": 0.9890590032911484,
+      "gyro_quality": 0.9524415893213544
+    }
+  },
+  {
+    "timestamp": 28.59531772575251,
+    "vehicle_acceleration": [
+      8.479890545608992,
+      -3.5853519451000064,
+      -5.848729006136451
+    ],
+    "estimated_orientation": [
+      -0.380982217523439,
+      -0.5316693771294422,
+      -0.7457851884718814
+    ],
+    "quality_score": 0.9766812105913223,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9289201587945388,
+      "orientation_stability": 0.9619541477945279,
+      "gyro_quality": 0.9660405666323527
+    }
+  },
+  {
+    "timestamp": 28.695652173913043,
+    "vehicle_acceleration": [
+      8.418352094073898,
+      -3.608679394663318,
+      -5.722007098668187
+    ],
+    "estimated_orientation": [
+      -0.3790588667913508,
+      -0.5305515176299964,
+      -0.7651860032053215
+    ],
+    "quality_score": 0.9841993651724923,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9420149353593118,
+      "orientation_stability": 0.9862224371163095,
+      "gyro_quality": 0.9786301253318337
+    }
+  },
+  {
+    "timestamp": 28.795986622073578,
+    "vehicle_acceleration": [
+      8.410831496977625,
+      -3.964696675604054,
+      -5.6266470215736435
+    ],
+    "estimated_orientation": [
+      -0.3883246533009713,
+      -0.5213912283221358,
+      -0.7802693061276443
+    ],
+    "quality_score": 0.9759561134282045,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9920623742481046,
+      "gravity_consistency": 0.930739980484028,
+      "orientation_stability": 0.9888499348112407,
+      "gyro_quality": 0.9346503354768672
+    }
+  },
+  {
+    "timestamp": 28.896321070234116,
+    "vehicle_acceleration": [
+      8.078377386019328,
+      -3.631832707744495,
+      -5.382622583136316
+    ],
+    "estimated_orientation": [
+      -0.3825118879150315,
+      -0.5132921902698705,
+      -0.7918883693690888
+    ],
+    "quality_score": 0.99199966379575,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9799138850210063,
+      "orientation_stability": 0.9930420079647184,
+      "gyro_quality": 0.9706058559684094
+    }
+  },
+  {
+    "timestamp": 28.99665551839465,
+    "vehicle_acceleration": [
+      8.132984469601169,
+      -3.508043394120276,
+      -5.44600849166799
+    ],
+    "estimated_orientation": [
+      -0.3795908783947507,
+      -0.5115840914244957,
+      -0.8007371298357938
+    ],
+    "quality_score": 0.9893786961077493,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9765993667004693,
+      "orientation_stability": 0.9964682398374161,
+      "gyro_quality": 0.9458858679204312
+    }
+  },
+  {
+    "timestamp": 29.096989966555185,
+    "vehicle_acceleration": [
+      8.373575424609994,
+      -3.464109725916935,
+      -5.212578479445204
+    ],
+    "estimated_orientation": [
+      -0.37692398403894883,
+      -0.5067062910913356,
+      -0.80737903759876
+    ],
+    "quality_score": 0.9767070481857774,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.9181260916600813,
+      "orientation_stability": 0.9983430283046264,
+      "gyro_quality": 0.9333037560806713
+    }
+  },
+  {
+    "timestamp": 29.19732441471572,
+    "vehicle_acceleration": [
+      8.114225015859118,
+      -3.600314724829127,
+      -5.1742233362913534
+    ],
+    "estimated_orientation": [
+      -0.3779087518278526,
+      -0.4983173376505196,
+      -0.8122707743731585
+    ],
+    "quality_score": 0.9874468960073591,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 1.0,
+      "gravity_consistency": 0.962028796483078,
+      "orientation_stability": 0.9969983762574995,
+      "gyro_quality": 0.9549138027211856
+    }
+  },
+  {
+    "timestamp": 29.297658862876254,
+    "vehicle_acceleration": [
+      8.244387654620065,
+      -3.507446671578356,
+      -5.275380819389151
+    ],
+    "estimated_orientation": [
+      -0.3799960059154337,
+      -0.4979733740245541,
+      -0.8157817443993249
+    ],
+    "quality_score": 0.9803536283643692,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9826568952509614,
+      "gravity_consistency": 0.9403615070164054,
+      "orientation_stability": 0.9959174332567995,
+      "gyro_quality": 0.9722948815982784
+    }
+  },
+  {
+    "timestamp": 29.39799331103679,
+    "vehicle_acceleration": [
+      8.079241895898974,
+      -3.772744427682698,
+      -5.476280833932974
+    ],
+    "estimated_orientation": [
+      -0.38976803126241594,
+      -0.497540471082968,
+      -0.8182100823987054
+    ],
+    "quality_score": 0.9915017577636144,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9971504906441823,
+      "gravity_consistency": 0.976908763329616,
+      "orientation_stability": 0.9924453989358966,
+      "gyro_quality": 0.9796557259626112
+    }
+  },
+  {
+    "timestamp": 29.498327759197323,
+    "vehicle_acceleration": [
+      8.154544761379963,
+      -3.655653343710814,
+      -5.368185282520692
+    ],
+    "estimated_orientation": [
+      -0.3914732949721108,
+      -0.4981550635888651,
+      -0.8197957930629056
+    ],
+    "quality_score": 0.9732427174166648,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9439900433810802,
+      "gravity_consistency": 0.9522540078132529,
+      "orientation_stability": 0.995092067292123,
+      "gyro_quality": 0.9753059491492573
+    }
+  },
+  {
+    "timestamp": 29.59866220735786,
+    "vehicle_acceleration": [
+      7.876878569410823,
+      -3.786154291276994,
+      -5.051905887021665
+    ],
+    "estimated_orientation": [
+      -0.38958527324810877,
+      -0.48658286493635317,
+      -0.8207315289841589
+    ],
+    "quality_score": 0.982344937946254,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9689575436292278,
+      "gravity_consistency": 0.9809052503908138,
+      "orientation_stability": 0.993294093340906,
+      "gyro_quality": 0.9493038795964837
+    }
+  },
+  {
+    "timestamp": 29.698996655518396,
+    "vehicle_acceleration": [
+      8.144440677360448,
+      -3.71079741751665,
+      -5.3133518139299145
+    ],
+    "estimated_orientation": [
+      -0.39367436140964174,
+      -0.48859085170795186,
+      -0.8211714251173561
+    ],
+    "quality_score": 0.9754917763262667,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9683745285976935,
+      "gravity_consistency": 0.942901816461676,
+      "orientation_stability": 0.993698544729618,
+      "gyro_quality": 0.9576299917506542
+    }
+  },
+  {
+    "timestamp": 29.79933110367893,
+    "vehicle_acceleration": [
+      8.30209120089158,
+      -3.8270073779678206,
+      -5.344788277453174
+    ],
+    "estimated_orientation": [
+      -0.39998742211042804,
+      -0.4902939696343957,
+      -0.8212383345250456
+    ],
+    "quality_score": 0.9724879083994991,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9781438504859761,
+      "gravity_consistency": 0.9098046416046894,
+      "orientation_stability": 0.9934328260023086,
+      "gyro_quality": 0.9697609355672082
+    }
+  },
+  {
+    "timestamp": 29.899665551839465,
+    "vehicle_acceleration": [
+      8.154591096603058,
+      -3.5760405921635634,
+      -5.422368665003135
+    ],
+    "estimated_orientation": [
+      -0.39674311228349507,
+      -0.49769820421777305,
+      -0.8210297496088088
+    ],
+    "quality_score": 0.9764771098681014,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.9667604212920118,
+      "gravity_consistency": 0.9466812693292315,
+      "orientation_stability": 0.9913812037902308,
+      "gyro_quality": 0.9674357011071752
+    }
+  },
+  {
+    "timestamp": 30.0,
+    "vehicle_acceleration": [
+      8.148783410627837,
+      -3.843426090411399,
+      -5.5378074193078595
+    ],
+    "estimated_orientation": [
+      -0.4020808125298157,
+      -0.5008082893649058,
+      -0.820622643050484
+    ],
+    "quality_score": 0.9704223192912718,
+    "confidence_metrics": {
+      "gps_quality": 1.0,
+      "motion_quality": 0.929669422661944,
+      "gravity_consistency": 0.954819549953438,
+      "orientation_stability": 0.9938490710442148,
+      "gyro_quality": 0.979636929784659
+    }
+  }
+]

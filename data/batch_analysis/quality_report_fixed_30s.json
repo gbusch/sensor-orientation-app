@@ -1,0 +1,29 @@
+{
+  "overall_score": 0.9547095515081514,
+  "temporal_consistency": 0.9848887548617292,
+  "physical_plausibility": 1.0,
+  "sensor_reliability": 0.8516246039983267,
+  "transformation_stability": 0.9816838702502548,
+  "detailed_metrics": {
+    "mean_quality_score": 0.9845041352228971,
+    "quality_score_std": 0.013604200647552548,
+    "min_quality_score": 0.9068901235800813,
+    "mean_roll": 0.21863543053175238,
+    "mean_pitch": 0.5411223209577759,
+    "mean_yaw": 0.45747102390798794,
+    "orientation_stability": 0.9472691321261058,
+    "mean_forward_accel": 8.409223326809158,
+    "mean_lateral_accel": 2.25376335481001,
+    "mean_vertical_accel": 5.644741122575791,
+    "max_acceleration": 13.359834796450462,
+    "mean_gps_accuracy": 5.088809938261371,
+    "gps_accuracy_std": 1.9738911913057304,
+    "mean_speed": 22.689706720247294,
+    "max_speed": 26.940257508469436,
+    "accelerometer_noise": 0.849597649726822,
+    "gyroscope_noise": 0.05495743370644093
+  },
+  "recommendations": [
+    "Transformation quality is good - no specific recommendations"
+  ]
+}
