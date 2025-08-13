@@ -316,7 +316,16 @@ def create_recommendations_panel() -> html.Div:
 
 
 # Initialize Dash app
-app = dash.Dash(__name__, external_stylesheets=['https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css'])
+app = dash.Dash(
+    __name__, 
+    external_stylesheets=['https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css'],
+    # Enable CORS and iframe embedding
+    serve_locally=False,
+    meta_tags=[
+        {"name": "Access-Control-Allow-Origin", "content": "*"},
+        {"name": "X-Frame-Options", "content": "ALLOWALL"}
+    ]
+)
 
 app.layout = html.Div([
     html.Div([
@@ -453,7 +462,15 @@ def export_results(n_clicks):
 def run_dashboard(host='0.0.0.0', port=52739, debug=False):
     """Run the dashboard application"""
     print(f"Starting dashboard at http://{host}:{port}")
-    app.run(host=host, port=port, debug=debug)
+    # Configure server for CORS and iframe embedding
+    app.run(
+        host=host, 
+        port=port, 
+        debug=debug,
+        use_reloader=False,  # Disable reloader to avoid duplicate processes
+        dev_tools_hot_reload=False,  # Disable hot reload
+        dev_tools_props_check=False  # Disable props check
+    )
 
 
 if __name__ == "__main__":
