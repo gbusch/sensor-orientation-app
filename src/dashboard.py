@@ -84,30 +84,30 @@ def create_sensor_data_plots() -> go.Figure:
     
     # Accelerometer
     fig.add_trace(go.Scatter(x=timestamps, y=accel_x, name='Accel X', line=dict(color='red')), row=1, col=1)
-    fig.add_trace(go.Scatter(x=timestamps, y=accel_y, name='Accel Y', line=dict(color='green')), row=1, col=1)
-    fig.add_trace(go.Scatter(x=timestamps, y=accel_z, name='Accel Z', line=dict(color='blue')), row=1, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=accel_y, name='Accel Y', line=dict(color='orange')), row=1, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=accel_z, name='Accel Z', line=dict(color='darkred')), row=1, col=1)
     
     # Gyroscope
     fig.add_trace(go.Scatter(x=timestamps, y=gyro_x, name='Gyro X', line=dict(color='red'), showlegend=False), row=1, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=gyro_y, name='Gyro Y', line=dict(color='green'), showlegend=False), row=1, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=gyro_z, name='Gyro Z', line=dict(color='blue'), showlegend=False), row=1, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=gyro_y, name='Gyro Y', line=dict(color='orange'), showlegend=False), row=1, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=gyro_z, name='Gyro Z', line=dict(color='darkred'), showlegend=False), row=1, col=2)
     
     # GPS Velocity
     fig.add_trace(go.Scatter(x=timestamps, y=gps_vx, name='GPS Vx', line=dict(color='red'), showlegend=False), row=2, col=1)
-    fig.add_trace(go.Scatter(x=timestamps, y=gps_vy, name='GPS Vy', line=dict(color='green'), showlegend=False), row=2, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=gps_vy, name='GPS Vy', line=dict(color='orange'), showlegend=False), row=2, col=1)
     
     # GPS Speed
-    fig.add_trace(go.Scatter(x=timestamps, y=gps_speed, name='Speed', line=dict(color='purple'), showlegend=False), row=2, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=gps_speed, name='Speed', line=dict(color='crimson'), showlegend=False), row=2, col=2)
     
     # GPS Accuracy
     gps_accuracy = [data.gps_accuracy for data in dashboard_data.sensor_data]
-    fig.add_trace(go.Scatter(x=timestamps, y=gps_accuracy, name='GPS Accuracy', line=dict(color='orange'), showlegend=False), row=3, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=gps_accuracy, name='GPS Accuracy', line=dict(color='coral'), showlegend=False), row=3, col=1)
     
     # Sensor magnitude overview
     accel_mag = [np.linalg.norm(data.accelerometer) for data in dashboard_data.sensor_data]
     gyro_mag = [np.linalg.norm(data.gyroscope) for data in dashboard_data.sensor_data]
     fig.add_trace(go.Scatter(x=timestamps, y=accel_mag, name='|Accel|', line=dict(color='red'), showlegend=False), row=3, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=gyro_mag, name='|Gyro|', line=dict(color='blue'), showlegend=False), row=3, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=gyro_mag, name='|Gyro|', line=dict(color='darkred'), showlegend=False), row=3, col=2)
     
     fig.update_layout(height=800, title_text="Raw Sensor Data")
     fig.update_xaxes(title_text="Time (s)")
@@ -152,25 +152,25 @@ def create_transformation_plots() -> go.Figure:
     
     # Vehicle acceleration
     fig.add_trace(go.Scatter(x=timestamps, y=vehicle_accel_x, name='Forward', line=dict(color='red')), row=1, col=1)
-    fig.add_trace(go.Scatter(x=timestamps, y=vehicle_accel_y, name='Lateral', line=dict(color='green')), row=1, col=1)
-    fig.add_trace(go.Scatter(x=timestamps, y=vehicle_accel_z, name='Vertical', line=dict(color='blue')), row=1, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=vehicle_accel_y, name='Lateral', line=dict(color='orange')), row=1, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=vehicle_accel_z, name='Vertical', line=dict(color='darkred')), row=1, col=1)
     
     # Orientation
     fig.add_trace(go.Scatter(x=timestamps, y=roll, name='Roll', line=dict(color='red'), showlegend=False), row=1, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=pitch, name='Pitch', line=dict(color='green'), showlegend=False), row=1, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=yaw, name='Yaw', line=dict(color='blue'), showlegend=False), row=1, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=pitch, name='Pitch', line=dict(color='orange'), showlegend=False), row=1, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=yaw, name='Yaw', line=dict(color='darkred'), showlegend=False), row=1, col=2)
     
     # Quality scores
-    fig.add_trace(go.Scatter(x=timestamps, y=quality_scores, name='Quality', line=dict(color='purple'), showlegend=False), row=2, col=1)
+    fig.add_trace(go.Scatter(x=timestamps, y=quality_scores, name='Quality', line=dict(color='crimson'), showlegend=False), row=2, col=1)
     
     # Acceleration magnitude and direction
     accel_magnitude = [np.linalg.norm(result.vehicle_acceleration) for result in dashboard_data.transformation_results]
     forward_component = [abs(result.vehicle_acceleration[0]) for result in dashboard_data.transformation_results]
     lateral_component = [abs(result.vehicle_acceleration[1]) for result in dashboard_data.transformation_results]
     
-    fig.add_trace(go.Scatter(x=timestamps, y=accel_magnitude, name='Total', line=dict(color='black'), showlegend=False), row=2, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=accel_magnitude, name='Total', line=dict(color='maroon'), showlegend=False), row=2, col=2)
     fig.add_trace(go.Scatter(x=timestamps, y=forward_component, name='|Forward|', line=dict(color='red'), showlegend=False), row=2, col=2)
-    fig.add_trace(go.Scatter(x=timestamps, y=lateral_component, name='|Lateral|', line=dict(color='green'), showlegend=False), row=2, col=2)
+    fig.add_trace(go.Scatter(x=timestamps, y=lateral_component, name='|Lateral|', line=dict(color='orange'), showlegend=False), row=2, col=2)
     
     fig.update_layout(height=600, title_text="Transformation Results")
     fig.update_xaxes(title_text="Time (s)")
@@ -205,7 +205,8 @@ def create_quality_metrics_plot() -> go.Figure:
         theta=components + [components[0]],
         fill='toself',
         name='Quality Metrics',
-        line_color='blue'
+        line_color='darkred',
+        fillcolor='rgba(139, 0, 0, 0.3)'  # Semi-transparent dark red fill
     ))
     
     fig.update_layout(
@@ -242,7 +243,7 @@ def create_gps_trajectory_plot() -> go.Figure:
         marker=dict(
             size=8,
             color=speeds,
-            colorscale='Viridis',
+            colorscale='Reds',
             colorbar=dict(title="Speed (m/s)"),
             showscale=True
         ),
